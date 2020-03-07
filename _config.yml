@@ -43,7 +43,6 @@ footer-links:
 # Build settings
 theme: minima
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
 
 sass:
