@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Profile Pic](_images/profile_pic.png)
+![Profile Pic](assets/images/profile_pic.png)
 
 I love to read.  I have since I was a child, sequestering myself into worlds of fantasy and classics alike, mixing together Moby Dick and Wheel of Time in equal measure.  Later, I delved into philosophy and theology, self-help and interesting non-fiction, but I never did stop reading fantasy and sci-fi.  To this day, I probably consume well over a hundred books a year, if not more.  
 
