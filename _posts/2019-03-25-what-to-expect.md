@@ -2,7 +2,7 @@
 layout: post
 title:  "What to Expect!"
 date:   2020-03-07 07:46:50 -0500
-categories: update
+categories: [update]
 ---
 
 Welcome to my new blog!  Mostly, this is a place for me to share my short stories and post any news related to me and writing.  I may also end up turning this into my central hub for other writing projects, but that’s for the future.
