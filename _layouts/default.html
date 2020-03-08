@@ -1,6 +1,16 @@
 <!DOCTYPE html>
+
+
 <html>
   <head>
+
+    <script>
+        const theme = localStorage.getItem('theme');
+        if (theme === "dark") {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        }
+    </script>
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -34,6 +44,7 @@
             <a href="{{ site.baseurl }}/category/writing">Writing</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
+          <button id="theme-toggle" onclick="modeSwitcher()"></button>
         </header>
       </div>
     </div>
@@ -51,4 +62,35 @@
     </div>
 
   </body>
+  <script>
+    const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
+
+    if (theme === "dark") {
+        document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+    } else if (theme === "light") {
+        document.getElementById("theme-toggle").innerHTML = "Light Mode";
+    } else if (userPrefers === "dark") {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        window.localStorage.setItem('theme', 'dark');
+        document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+    } else {
+        document.documentElement.setAttribute('data-theme', 'light');
+        window.localStorage.setItem('theme', 'light');
+        document.getElementById("theme-toggle").innerHTML = "Light Mode";
+    }
+
+    function modeSwitcher() {
+        let currentMode = document.documentElement.getAttribute('data-theme');
+        if (currentMode === "dark") {
+            document.documentElement.setAttribute('data-theme', 'light');
+            window.localStorage.setItem('theme', 'light');
+            document.getElementById("theme-toggle").innerHTML = "Light Mode";
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            window.localStorage.setItem('theme', 'dark');
+            document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+        }
+    }
+
+  </script>
 </html>

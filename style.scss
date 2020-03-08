@@ -15,7 +15,7 @@
 html, html[data-theme="light"] {
 
 // Colors
-  --blue: #4183C4;
+  --blue: rgb(33, 71, 109);
 
 // Grays
   --black: #000;
@@ -32,12 +32,12 @@ html[data-theme="dark"] {
   --blue: #4183C4;
 
 // Grays
-  --black: #fff;
-  --darkerGray: #eee;
-  --darkGray: #999;
-  --gray: #333;
-  --lightGray: #222;
-  --white: #111;
+  --black: #eee;
+  --darkerGray: #ddd;
+  --darkGray: #bbb;
+  --gray: #777;
+  --lightGray: #444;
+  --white: #222;
 }
 
 html {
@@ -102,6 +102,13 @@ a {
   &:hover, &:active {
     color: var(--blue);
   }
+}
+
+button {
+  color: var(--black);
+  background: var(--white);
+  border-color: var(--gray);
+  border-radius: 4pt;
 }
 
 ul, ol {
