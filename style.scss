@@ -111,6 +111,10 @@ button {
   border-radius: 4pt;
 }
 
+button:focus {
+  outline: none !important;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -216,11 +220,18 @@ img {
 
 .site-info {
   float: left;
+  margin-top: 10pt;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
+  }
+
+  a {
+    display: block;
+    color: var(--black);
+    font-size: 12;
   }
 }
 
@@ -269,6 +280,12 @@ nav {
       color: var(--blue);
     }
   }
+}
+
+#theme-toggle {
+  float: right;
+  position: relative;
+  top: 10pt;
 }
 
 //
