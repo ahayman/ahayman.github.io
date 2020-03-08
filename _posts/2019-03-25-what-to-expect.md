@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "What to Expect!"
-date:   2019-03-25 07:46:50 -0500
+title:  "What to Expect"
 categories: [update]
 ---
 
