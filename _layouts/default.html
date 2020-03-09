@@ -28,7 +28,6 @@
   </head>
 
 <body>
-    <button id="theme-toggle" onclick="modeSwitcher()"></button>
     <div class="page-layout">
         <div class="nav-container">
             <header class="header">
@@ -55,11 +54,10 @@
             </div>
 
             <div class="wrapper-footer">
-                <div class="container">
-                    <footer class="footer">
-                        {% include svg-icons.html %}
-                    </footer>
-                </div>
+                <footer class="footer">
+                    {% include svg-icons.html %}
+                    <button id="theme-toggle" onclick="modeSwitcher()"></button>
+                </footer>
             </div>
         </div>
     </div>
