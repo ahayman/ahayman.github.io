@@ -22,8 +22,14 @@ body {
   color: var(--color-body);
   height: 100vh;
   height: calc(var(--vh, 1vh) * 100);
-  width: 100%;
+  width: 100vh;
   overflow: hidden;
+
+  @include mobile {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+  }
 }
 
 .page-layout {
@@ -33,6 +39,11 @@ body {
   flex-direction: row;
   display: flex;
 
+  @include mobile {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+  }
   @include mobile {
     flex-direction: column;
   }
@@ -199,16 +210,13 @@ img {
 }
 
 .site-avatar {
-  display: block;
   width: 50pt;
   height: 50pt;
-  margin: auto;
-  text-align: center;
 
   @include mobile {
     width: 30pt;
     height: 30pt;
-    display: inline;
+    margin-right: 10pt;
   }
   
   img {
@@ -219,21 +227,24 @@ img {
 .site-info {
   display: block;
   margin: 0 auto;
-
-  @include mobile {
-    margin: 0 auto;
-    display: inline;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
   p {
     margin: 0;
   }
 
   a {
-    display: block;
     color: var(--color-standard-text);
     font-size: 12;
   }
+
+  @include mobile {
+    flex-direction: row;
+  }
+
 }
 
 .site-name {
@@ -247,7 +258,6 @@ img {
     font-size: 16px;
   }
 
-  text-align: center;
 }
 
 .site-description {
@@ -260,6 +270,7 @@ img {
     text-align: center;
     visibility: hidden;
     height: 0;
+    width: 0;
   }
 }
 
