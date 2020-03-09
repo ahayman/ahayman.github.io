@@ -188,6 +188,7 @@ img {
   flex-shrink: 1;
   background-color: var(--color-nav-background);
   border-right: 1px solid var(--color-select);
+  border-bottom: 0px;
   flex-direction: column;
   justify-content: end;
   padding: 10px;
@@ -195,6 +196,7 @@ img {
 
   @include mobile {
     border-bottom: 1px solid var(--color-select);
+    border-right: 0px;
     padding: 0px;
   }
 }
