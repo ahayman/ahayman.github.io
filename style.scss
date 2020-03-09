@@ -20,6 +20,9 @@ body {
 	background: var(--color-background);
   font: 18px/1.4 $helvetica;
   color: var(--color-body);
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
 }
 
 .container {
@@ -27,6 +30,8 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  display: flex;
+  overflow-y: scroll;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,6 +82,8 @@ a {
 }
 
 button {
+  margin: 10pt;
+  align-self: center;
   padding-top: 3pt;
   padding-bottom: 3pt;
   color: var(--color-standard-text);
@@ -158,48 +165,76 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
-
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid var(--color-select);
+.page-layout {
+  height: 100vh;
+  width: 100vw;
+  flex-direction: row;
+  display: flex;
 
   @include mobile {
-    text-align: center;
+    flex-direction: column;
   }
+}
+
+.content-layout {
+  width: 100%;
+  flex: 1;
+  flex-direction: column;
+  overflow-y: auto;
+  align-self: stretch;
+}
+
+.nav-container {
+  flex-shrink: 1;
+  background-color: var(--color-nav-background);
+  border-right: 1px solid var(--color-select);
+  flex-direction: column;
+  justify-content: end;
+  padding: 10px;
+  padding-top: 60px;
+
+  @include mobile {
+    border-bottom: 1px solid var(--color-select);
+    padding: 0px;
+  }
+}
+
+.header {
+  flex-direction: column;
+  justify-content: end;
+  flex: 1;
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  display: block;
+  width: 50pt;
+  height: 50pt;
+  margin: auto;
+  margin-top: 50;
+  text-align: center;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    width: 30pt;
+    height: 30pt;
+    display: inline;
   }
-
+  
   img {
     border-radius: 5px;
   }
 }
 
 .site-info {
-  float: left;
-  margin-top: 23pt;
+  display: block;
+  margin: 0 auto;
 
   @include mobile {
-    float: none;
-    display: block;
     margin: 0 auto;
+    display: inline;
+  }
+
+  p {
+    margin: 0;
   }
 
   a {
@@ -210,56 +245,66 @@ img {
 }
 
 .site-name {
-  margin: 0;
   color: var(--color-body);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 20px;
+
+  @include mobile {
+    font-size: 16px;
+  }
+
+  text-align: center;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: var(--color-subText);
   font-size: 16px;
+  text-align: right;
 
   @include mobile {
-    margin: 3px 0;
+    text-align: center;
+    visibility: hidden;
+    height: 0;
   }
 }
 
 nav {
-  float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 0px;
     display: block;
+    text-align: center;
     font-size: 16px;
   }
 
   a {
-    margin-left: 20px;
     color: var(--color-body);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    display: block;
 
     @include mobile {
-      margin: 0 10px;
+      display: inline;
+      margin: 0 5px;
       color: var(--color-link);
     }
   }
 }
 
 #theme-toggle {
-  float: right;
-  position: relative;
-  top: 10pt;
+  position: absolute;
+
+  top: 10;
+  left: 10;
+
 }
 
 //

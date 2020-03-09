@@ -12,9 +12,7 @@
     </script>
 
     <title>
-        {% if page.title %}
-            {{ page.title }} – 
-        {% endif %}
+        {% if page.title %}{{ page.title }} – {% endif %}
         {{ site.title }}
     </title>
     {% include meta.html %}
@@ -29,40 +27,41 @@
 
   </head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <button id="theme-toggle" onclick="modeSwitcher()"></button>
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/assets/images/profile_pic.png" /></a>
+<body>
+    <button id="theme-toggle" onclick="modeSwitcher()"></button>
+    <div class="page-layout">
+        <div class="nav-container">
+            <header class="header">
+                <div class="site-info">
+                    <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/assets/images/profile_pic.png" /></a>
+                    <p class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></p>
+                    <p class="site-description">{{ site.description }}</p>
+                </div>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+                <nav>
+                    <a href="{{ site.baseurl }}/updates">Updates</a>
+                    <a href="{{ site.baseurl }}/stories">Stories</a>
+                    <a href="{{ site.baseurl }}/reviews">Reviews</a>
+                    <a href="{{ site.baseurl }}/writing">Writing</a>
+                    <a href="{{ site.baseurl }}/about">About</a>
+                </nav>
 
-          <nav>
-            <a href="{{ site.baseurl }}/updates">Updates</a>
-            <a href="{{ site.baseurl }}/stories">Stories</a>
-            <a href="{{ site.baseurl }}/reviews">Reviews</a>
-            <a href="{{ site.baseurl }}/writing">Writing</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+            </header>
+        </div>
 
-        </header>
-      </div>
-    </div>
+        <div class="content-layout">
+            <div id="main" role="main" class="container">
+                {{ content }}
+            </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
+            <div class="wrapper-footer">
+                <div class="container">
+                    <footer class="footer">
+                        {% include svg-icons.html %}
+                    </footer>
+                </div>
+            </div>
+        </div>
     </div>
 
   </body>
