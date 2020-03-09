@@ -22,8 +22,20 @@ body {
   color: var(--color-body);
   height: 100vh;
   height: calc(var(--vh, 1vh) * 100);
-  width: 100vw;
+  width: 100%;
   overflow: hidden;
+}
+
+.page-layout {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100vw;
+  flex-direction: row;
+  display: flex;
+
+  @include mobile {
+    flex-direction: column;
+  }
 }
 
 .container {
@@ -154,18 +166,6 @@ img {
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
-
-.page-layout {
-  height: 100vh;
-  height: calc(var(--vh, 1vh) * 100);
-  width: 100vw;
-  flex-direction: row;
-  display: flex;
-
-  @include mobile {
-    flex-direction: column;
-  }
-}
 
 .content-layout {
   width: 100%;
