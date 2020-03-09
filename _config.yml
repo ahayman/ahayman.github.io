@@ -45,6 +45,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+excerpt_separator: <!--more-->
+
 sass:
   style: :compressed
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Six Sacred Swords"
 categories: [review]
+excerpt-separator: <!--more-->
 image: https://images-na.ssl-images-amazon.com/images/I/51OQVuWWSIL.jpg
 ---
 
@@ -12,6 +13,8 @@ _by Andrew Rowe_
 I think the biggest surprise to me in this book was that I had unwittingly read other books about the main character.  So, the main character, Keras, is a significant side character in Rowe’s Arcane Ascension series — something I already knew.  This book, though, starts its own series by using the latest events in Arcane Ascension as an excuse for Keras to tell his story as a flashback in the first person.  It’s a neat plot mechanic that I found cleverly implemented.
 
 The surprise for me came in the interlude, where Keras was recounting an event even further back in his past than Six Sacred Swords, mostly his background.  It was then I realized that Keras was a main character in Rowe’s _other_ Broken Mirror series.  I’ll admit that for a few minutes (prior to a quick Google search), I actually wondered if Rowe was ripping off someone else’s story.  I’d gotten my authors confused and didn’t realize Rowe had actually written Broken Mirrors.  Eh, fun times.  I will say that I like it when an author connects their works together like this.  It makes the world feel more fleshed out and real.  I was delighted to find a character woven into now three separate series.
+
+<!--more-->
 
 Six Sacred Swords seemed to be an attempt at a different kind of writing than Rowe’s other works.  So I read Broken Mirrors long enough ago that I can’t really comment on his style then (I have no intention to reread the books either).  Arcane Ascension, however, gears much more toward a detailed power progression of the magic system, inviting you to join Corin as he struggles to overcome inherent limitations.  Much of the joy in those books involves the delightfully unusual ways in which he overcomes his challenges.  In a lot of ways, it’s power-progression done right, and it’s one of my favorite series.
 

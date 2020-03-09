@@ -12,42 +12,14 @@
 /* BASE RULES */
 /**************/
 
-html, html[data-theme="light"] {
-
-// Colors
-  --blue: rgb(33, 71, 109);
-
-// Grays
-  --black: #000;
-  --darkerGray: #222;
-  --darkGray: #333;
-  --gray: #666;
-  --lightGray: #eee;
-  --white: #fff;
-}
-
-html[data-theme="dark"] {
-
-// Colors
-  --blue: #4183C4;
-
-// Grays
-  --black: #eee;
-  --darkerGray: #ddd;
-  --darkGray: #bbb;
-  --gray: #777;
-  --lightGray: #444;
-  --white: #222;
-}
-
 html {
   font-size: 100%;
 }
 
 body {
-	background: var(--white);
+	background: var(--color-background);
   font: 18px/1.4 $helvetica;
-  color: var(--darkGray);
+  color: var(--color-body);
 }
 
 .container {
@@ -59,7 +31,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: var(--darkerGray);
+  color: var(--color-heading);
   font-weight: bold;
 
   line-height: 1.7;
@@ -88,7 +60,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: var(--gray);
+  color: var(--color-subText);
 }
 
 p {
@@ -96,18 +68,20 @@ p {
 }
 
 a {
-  color: var(--blue);
+  color: var(--color-link);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: var(--blue);
+    color: var(--color-link);
   }
 }
 
 button {
-  color: var(--black);
-  background: var(--white);
-  border-color: var(--gray);
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+  color: var(--color-standard-text);
+  background: var(--color-background);
+  border-color: var(--color-subText);
   border-radius: 4pt;
 }
 
@@ -155,17 +129,17 @@ img {
 
 .date {
   font-style: italic;
-  color: var(--gray);
+  color: var(--color-subText);
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: var(--black);
-  background: var(--lightGray);
+  color: var(--color-standard-text);
+  background: var(--color-select);
 }
 ::selection {
-  color: var(--black);
-  background: var(--lightGray);
+  color: var(--color-standard-text);
+  background: var(--color-select);
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -194,7 +168,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid var(--lightGray);
+  border-bottom: 1px solid var(--color-select);
 
   @include mobile {
     text-align: center;
@@ -220,7 +194,7 @@ img {
 
 .site-info {
   float: left;
-  margin-top: 10pt;
+  margin-top: 23pt;
 
   @include mobile {
     float: none;
@@ -230,14 +204,14 @@ img {
 
   a {
     display: block;
-    color: var(--black);
+    color: var(--color-standard-text);
     font-size: 12;
   }
 }
 
 .site-name {
   margin: 0;
-  color: var(--darkGray);
+  color: var(--color-body);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -247,7 +221,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: var(--gray);
+  color: var(--color-subText);
   font-size: 16px;
 
   @include mobile {
@@ -270,14 +244,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: var(--darkGray);
+    color: var(--color-body);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: var(--blue);
+      color: var(--color-link);
     }
   }
 }
@@ -292,9 +266,26 @@ nav {
 // .main
 //
 
+.tag-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+
+.tag {
+  margin-top: 5pt;
+  padding: 0pt 3pt 0pt 3pt;
+  color: var(--color-background);
+  background-color: var(--color-tag);
+  border-radius: 5pt;
+  border-width: 1pt;
+  border-color: var(--color-tag);
+}
+
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid var(--lightGray);
+  border-bottom: 1px solid var(--color-select);
 }
 
 .posts > .post:last-child {
@@ -305,9 +296,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid var(--gray);
+    border-left: 2px solid var(--color-subText);
     padding: 0.1em 1em;
-    color: var(--gray);
+    color: var(--color-subText);
     font-size: 22px;
     font-style: italic;
   }
@@ -326,7 +317,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: var(--lightGray);
+  background-color: var(--color-select);
 }
 
 footer {
