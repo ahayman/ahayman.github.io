@@ -2,6 +2,7 @@
 layout: post
 title:  "A Pattern of Light and Shadow"
 categories: [review]
+excerpt-separator: <!--more-->
 image: https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg
 ---
 
@@ -14,6 +15,8 @@ image: https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg
 _by Melissa McPhail_
 
 I started reading these books about the time my eldest son fell ill, trapping me on the couch while he watched kid shows.  He kindly passed the virus to me, giving me both time and motivation to dive into a good series.  I ended up reading all four of her books (the fifth one comes out in June) within a week, which makes it easy to review them all at once.  
+
+<!--more-->
 
 On the whole, I enjoyed the books and I’m looking forward to reading the next one in the series, but I have to admit there are a few weakness in the plot and structure I feel could have been done better.  This means a lot of this review will be spent looking at those weaknesses, and yet I don’t want to give the impression that the series is bad.  It’s not.  In fact, I rather suspect that any series this large must inevitably contain weaknesses, even if those faults are due only to preference (and some of what I mention certainly is).  I loved reading the WoT… and those books had some serious issues.  McPhail’s books are of similar scope, so it’s not   
 
