@@ -4,6 +4,11 @@
 <html>
   <head>
     {% include analytics.html %}
+    <script type="text/javascript" src="/scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/scripts/bigfoot.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/scripts/bigfoot-default.css">
+    <script type="text/javascript"> $.bigfoot(); </script>
+
     <script>
         function updateWindowHeight() {
             let vh = window.innerHeight * 0.01;
