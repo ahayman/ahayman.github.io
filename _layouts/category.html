@@ -4,6 +4,9 @@ layout: default
 
 <div class="posts">
     <h1><small>{{ page.title }}</small></h1>
+    {% if content %}
+        {{ content }}
+    {% endif %}
 
     {% for post in site.categories[page.tag] %}
     <article class="post">
