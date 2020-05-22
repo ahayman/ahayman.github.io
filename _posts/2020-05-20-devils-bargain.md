@@ -123,7 +123,7 @@ The moment evaporated.
 
 The words weighed like stones on my mind.  I felt confusion as the weight pressed out thoughts I'd long ago forgotten, deep truths that formed who I was from forgotten memories.  They were defining moments, just as real as this one, and just as eternal.
 
-There were not what I expected. 
+They were not what I expected. 
 
 We remember the big things easily. Critical junctures, lost loves, new hates, hard choices, traumatic experiences: these all embed themselves into our minds, burned there by our very emotions.  But equally as important were the small choices, inconsequential, that yet somehow managed to form the basis of all we are.
 
