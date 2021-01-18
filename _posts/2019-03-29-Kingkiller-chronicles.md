@@ -5,8 +5,6 @@ categories: [review]
 image: https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg
 ---
 
-![Name of the Wind](https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg) ![THe Wise Man's Fear](https://images-na.ssl-images-amazon.com/images/I/51qKDJ8lPeL._SY346_.jpg)
-
 ### Name of the Wind & Wise Man’s Fear
 _by Patrick Rothfuss_
 
@@ -36,7 +34,9 @@ That scene could not have possibly been so impactful had Rothfuss not lingered i
 
 Rothfuss could have written a much smaller, action-packed book(s) with the same plot.  There’s enough there, and it’s a good plot.  But like Moby Dick, stripping everything else would strip it of almost everything that it is.  Lingering in the moments and getting to know the characters is nearly as important as the plot, perhaps even more so.
 
----
+----
+
+![Name of the Wind](https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg) ![THe Wise Man's Fear](https://images-na.ssl-images-amazon.com/images/I/51qKDJ8lPeL._SY346_.jpg)
 
 #### Author Info
 

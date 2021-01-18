@@ -8,6 +8,10 @@ layout: default
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }}
   </div>
+
+  {% if page.image %}
+    <img src="{{ page.image }}" style="width: 300px;" />
+  {% endif %}
   
   <div class="entry">
     {{ content }}

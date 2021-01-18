@@ -68,6 +68,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.thumbnail {
+  float: right;
+  height: 200pt;
+  border-radius: 8pt;
+}
+
 h1 {
   font-size: 22px;
   a {
@@ -307,6 +313,14 @@ nav {
   flex-direction: row;
   justify-content: start;
   align-items: center;
+}
+
+.archive-tag-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  float: right;
 }
 
 .tag {

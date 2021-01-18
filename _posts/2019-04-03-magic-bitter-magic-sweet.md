@@ -5,8 +5,6 @@ categories: [review]
 image: https://images-na.ssl-images-amazon.com/images/I/51odUtgGCTL.jpg
 ---
 
-![Magic Bitter, Magic Sweet](https://images-na.ssl-images-amazon.com/images/I/51odUtgGCTL.jpg)
-
 _by Charlie N. Holmberg_
 
 First, I’m a pretty big fan of Holmberg.  I read her _Paper Magician_ series a while back and found it to be a delightfully new kind of writing.  Now, as a quick aside, I am one of those that believe there should be more female fantasy/sci-fi writers.   This is not an opinion on social equality (although I do firmly believe women are equal in all regards), but an opinion on the necessity of diversity.  There is only so much variety you can have from a male perspective, and much of that variety has been explored already.  I don’t know why fantasy and sci-fi have been so male-dominated for so long, except perhaps that we claimed it for some reason, and kind of turned it into a boys club.  In doing so, we cheated ourselves.  Yes, lots of men try to write from the female perspective, but it's often limited or skewed into caricatures.  So as more female writers come into the fantasy/sci-fi genre’s, I expect to see an explosion of diversity of styles and perspective in the genre itself, something I think is sorely needed.  I expect this because of, well, Holmberg.

@@ -11,6 +11,9 @@ layout: default
     {% for post in site.categories[page.tag] %}
     <article class="post">
     
+        {% if post.image %}
+            <img class="thumbnail" src="{{ post.image }}" />
+        {% endif %}
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     
         <div class="date">

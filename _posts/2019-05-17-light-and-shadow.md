@@ -7,11 +7,6 @@ image: https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg
 ---
 
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg" width="300" /><br />
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51V6d86bN1L._SY346_.jpg" width="100" /> <img src="https://images-na.ssl-images-amazon.com/images/I/51b4tNZQeeL.jpg" width="100" /> <img src="https://images-na.ssl-images-amazon.com/images/I/5140fuc%2B8iL.jpg" width="100" />
-
-
 _by Melissa McPhail_
 
 I started reading these books about the time my eldest son fell ill, trapping me on the couch while he watched kid shows.  He kindly passed the virus to me, giving me both time and motivation to dive into a good series.  I ended up reading all four of her books (the fifth one comes out in June) within a week, which makes it easy to review them all at once.  
@@ -81,6 +76,13 @@ There are other themes McPhail tries to address that I found hit or miss but don
 It may seem like I’m harping on the author and the series, but the truth is I liked the books a lot.  There are flaws, yes, and I point them out for my own benefit, to learn from what I consider the author’s mistakes.  Of course, not all may even be considered a mistake.  It could be personal preference or intentional by the author.  But the series itself is well written, with a deep and complex plot, engaging characters, well-built world, and a solid magic system.  
 
 In the end, McPhail set out to create a new epic series and she succeeded.  Moreover, she created something _unique_, engaging, and interesting.  That is no small feat.  She's done something remarkable and I think she’s earned a great recommendation for her books.
+
+---
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg" width="100" /> 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51V6d86bN1L._SY346_.jpg" width="100" /> 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51b4tNZQeeL.jpg" width="100" /> 
+<img src="https://images-na.ssl-images-amazon.com/images/I/5140fuc%2B8iL.jpg" width="100" />
 
 ---
 
