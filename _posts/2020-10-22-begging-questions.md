@@ -12,6 +12,8 @@ You see, the process of destroying a nation is simple.
 
 Belief is most often driven by fear. Not always, mind you — love and hope are also strong — but fear is the strongest motivator. And so in order to install belief, you must stoke fear.
 
+<!--more-->
+
 There is always the "other", people who are different from you, strangers with bizarre beliefs and questionable ethics... but still people. This is unacceptable. They should not be people but demons, clearly on the side of evil, irrational and ready to attack at any moment for no reason other than that they are depraved.
 
 So take the extreme minority, the violent ones, no matter how small or few, and feed to the other side a constant stream of the evil, violent insanity of their opposition. Images and videos are best, but most important is to frame the context. These incidents cannot be considered isolated; they must be framed as part of a greater whole, a massive movement, an infection that is spreading at an unprecedented rate. Most importantly, the context must at the very least suggest, if not outright state, how their opponent threatens all that is good in the world, their way of life, their very survival. And finally, the evil cannot be distant; they must believe that these evil people are right at their door, ready to attack and take away everything they hold dear.
