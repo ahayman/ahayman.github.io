@@ -18,6 +18,8 @@ The boy spotted a shiny rock and picked it up. He liked rocks and decided that t
 
 The boy looked up to find the tortoise was gone and he was sad. He'd hoped to find out what love is, this thing so revered by others.
 
+<!--more-->
+
 A flash of movement and the boy walked into the grass to investigate. There he found a hare and his hope returned that maybe the hare would know what love is.
 
 "What is love?" asked the boy of the hare.

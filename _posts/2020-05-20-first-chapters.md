@@ -11,6 +11,8 @@ Writing the first chapter forces me to get out much more than the idea. It helps
 
 I _need_ to get it out. Otherwise, it's a distraction from my primary writing.
 
+<!--more-->
+
 It's also a good way to experiment. My current project has been in process for a couple years now.  There's momentum to it, for good and bad. Returning to it is like putting on an old pair of shoes; they just fit right. But I've also established certain expectations, ones I can't break. 
 
 I can't just go off the rails to try a new thing. But writing a first chapter allows me to dip my toes into a new idea, a new world, a new way of writing, even a new genre.

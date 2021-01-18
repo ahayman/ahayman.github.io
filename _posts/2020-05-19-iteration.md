@@ -10,6 +10,8 @@ So perhaps I should rephrase: I'm amazed at how well my own personal principles 
 
 It seems to me that many of the issues so many writers have [^2] could be mitigated by approaches developed for writing software. There's a lot of "principles" or approaches I could cover, but I'd like to focus on one: iteration.
 
+<!--more-->
+
 I never, ever expect the first words I write to be... well, good.  I expect to rewrite them; I expect to rewrite them _a lot_ — once, twice, five, even a dozen times.  In other words, I expect to iterate my writing.
 
 To me, this is perfectly normal. I would never write code and expect it to run flawlessly the first time. I'm never surprised when I get half way through writing some piece, only to realize I could have done it a better way; then I scrap what I've written and write it the better way.

@@ -9,7 +9,9 @@ The walls were rough-hewn stone, cold, unaffected by the fire of wrought iron to
 
 I could not recall how I’d gotten there, nor how long ago.  I stretched my memory and found only this place.  God’s clock had stopped, grinding to halt all that could be and turning a moment into eternity.  I stood entombed in that moment, all memory and hope nothing but a dream of change.  
 
-Then the moment evaporated. 
+Then the moment evaporated.
+
+<!--more--> 
 
 I stood in a stone room as one of many, whom I dubbed the nameless.  We were orphans, abandoned and alone no matter our numbers.  We had names, but they didn’t matter.  Names are for attachment, and we’d long since consumed the truth of the world’s transience. Now is all we ever have, and the past a lie we tell ourselves to make sense of the moment. 
 

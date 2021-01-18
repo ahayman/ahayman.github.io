@@ -10,6 +10,8 @@ Unlike most people (I think), I don't always learn first what I need to do befor
 
 On the plus side, I'm not the kind of person who finds themselves stuck with writer's block, or writer's paralysis, or the ever-learning but never-doing cycle.  I write, then I edit.  
 
+<!--more-->
+
 The first draft of my book, which I'm currently calling "A Storm of Knives" (not final), was an absolute train wreck.  I was sure there was a story there, but not even I could read it.  If ever there was a newbie writer's mistake, I made it.  
 
 So I bought a few books on self-editing, my favorite of which was "Self-Editing for Fiction Writers," learned a lot about what I did wrong, and then spent the next year re-drafting the book six or seven times.  

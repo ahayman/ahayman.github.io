@@ -9,6 +9,8 @@ I stare at a teacup and silently watch the steam rise as it sends up whiffs of t
 
 I do not drink the tea.  Instead, I set the cup down and notice for the first time that the dragons continue onto the gilded saucer.  Clever.  I reposition the cup so the paintings match perfectly.  Seems wrong to leave them broken.  Both cup and saucer together probably cost more than most people's homes.
 
+<!--more-->
+
 "Where did you say this tea is from?"
 
 "I didn't, your majesty. It's from a rare plant grown only in the southern archipelagos, specifically the Sansianta island, which is renowned for its exotic spices."

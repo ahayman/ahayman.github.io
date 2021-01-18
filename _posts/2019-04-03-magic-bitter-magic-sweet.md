@@ -15,6 +15,8 @@ It’s not just that she’s a female fantasy writer because, of course, she is.
 
 And that is only the least interesting part of the story.
 
+<!--more-->
+
 I will admit I hesitated to pick up the book.  While the idea sounded different, it didn’t actually sound like a story.  It was a neat idea, but I wasn’t sure why I would want to read it.  I read it anyway because I trust Holmberg to do something great with it.  She did.
 
 Whenever I read her writing, I am tempted to think I’m reading an old fairy tale that was long forgotten to time.  I think it’s that all the pieces fit so well together, I’m tricked into believing they’d always been there.  Nothing feels contrived or unneeded, nor do I find the plot strained or stretched.  When I come across some element or thread in the story, I can be sure it’s there for a reason, even if I don’t know what that reason is until the end.  It’s dense writing, and I like it a lot.
