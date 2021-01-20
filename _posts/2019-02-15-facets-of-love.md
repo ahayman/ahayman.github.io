@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Facets of Love"
-categories: [story]
+categories: [short, story]
 ---
 
 "What is love?" asked the boy of the tortoise.

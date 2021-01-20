@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One Hundred Wives"
-categories: [story]
+categories: [short, story]
 ---
 
 
@@ -15,7 +15,7 @@ I do not drink the tea.  Instead, I set the cup down and notice for the first ti
 
 "I didn't, your majesty. It's from a rare plant grown only in the southern archipelagos, specifically the Sansianta island, which is renowned for its exotic spices."
 
-Right so, really expensive.  I idly wonder whether the tea cost more than the cup.  Probably.  People are weird about their tea.  Still, I can't deny it smells lovely.  I bend over the cup, breathing in the aroma as I attempt to discern anything discordant, but I detect nothing. 
+Right so, really expensive.  I idly wonder whether the tea cost more than the cup.  Probably.  People are weird about their tea.  Still, I can't deny it smells lovely.  I bend over the cup, breathing in the aroma as I attempt to discern anything discordant, but I detect nothing.
 "And we still don't have any tasters?"
 
 "No, Sire."
@@ -38,7 +38,7 @@ Right so, really expensive.  I idly wonder whether the tea cost more than the cu
 
 I sigh and look regretfully at the tea.  I don't blame them, not really.  The King's Taster used to be a prestigious position fought for by many.  But that was almost twenty deaths ago and now, well, let's just say people aren't lining up for the job anymore.
 
-I look over to the plate of food and start to consider what might be safe to eat, but my mind drifts back to the tea, which continues to send up its pleasant aroma.  The irony here is that I'm not a tea drinker, never was.  Some people call me a barbarian, or at least they used to, but I'd always considered that a mark of pride.  I achieved greatness from simple origins, rising to heights most people, even those of privilege, could only dream of. 
+I look over to the plate of food and start to consider what might be safe to eat, but my mind drifts back to the tea, which continues to send up its pleasant aroma.  The irony here is that I'm not a tea drinker, never was.  Some people call me a barbarian, or at least they used to, but I'd always considered that a mark of pride.  I achieved greatness from simple origins, rising to heights most people, even those of privilege, could only dream of.
 So no, I don't drink tea.  We barbarians drank harsher stuff, brewed from roots and usually alcoholic on some level.  Good times and sometimes I miss it, but now I have tea and, I admit, I do like it.  Of course, I certainly wouldn't claim the sophisticated palettes of the many pampered sycophants that cater to my every whim.  But good is good, and I have grudgingly come to accept that tea can be quite good.
 
 My lips curl slightly as I look at the tea with its incessant steam that now only seems to be taunting me.  I can feel my mood sour.  That would not be a good start to the day, so I tear my gaze from the hypnotic dance of steam and reexamine my plate.
@@ -75,7 +75,7 @@ It's already been two weeks!?
 
 "Also, Joanna has begun complaining about the smell."
 
-Joanna… the name sounds familiar but I can't put a face to it. I'm sure she's my wife.  Otherwise, he wouldn't bring it up but since I draw nothing but a blank, I dismiss it as irrelevant.  Instead, I try a different tact. 
+Joanna… the name sounds familiar but I can't put a face to it. I'm sure she's my wife.  Otherwise, he wouldn't bring it up but since I draw nothing but a blank, I dismiss it as irrelevant.  Instead, I try a different tact.
 "Wasn't that Kingdom… dammit, what was its name," I snap my fingers as I try to recall, "that Kingdom that was going to attack us…"
 
 "Kingdom of Lorian, Sire." Definitely sarcasm, and again with the pause.  How did I not notice this before?
@@ -90,29 +90,29 @@ The man doesn't even bother to respond.  He just stares at me with a flat expres
 
 "Fine, let's go."
 
-We leave my expansive room and pass the guards only to find a large group of people patiently waiting.  I have no idea how long they've been there.  Part of me feels guilty for making them wait but I squash that pretty quickly.  Of course, they're expected to wait on the king. 
+We leave my expansive room and pass the guards only to find a large group of people patiently waiting.  I have no idea how long they've been there.  Part of me feels guilty for making them wait but I squash that pretty quickly.  Of course, they're expected to wait on the king.
 Also, they're always there when I come out.  Always.  I half expect that should I leave my room in the middle of the night there would still be a group waiting for me.  I haven't had the chance to test this, though, as I have other 'duties' to perform at night that tend to leave me exhausted.
 
 I notice two of my generals are here, but for the life of me I can't figure out why. We're not at war and Lorian is too timid to attack, apparently.  I make a note to myself to make sure I talk to them before the petitions.  Generals are important, always, and even more so when both of them are old friends.  Also, there's a slim chance their concerns will get me out of petition day.
 
 I turn to possibly the three most important people in the Kingdom: The Groundskeeper, The Lord Chamberlain, and the Head Cook.  The Groundskeeper and the Chamberlain begin speaking at the same time.  Some rodent had stowed away in a recent shipment of imported food.  By the time it was discovered, the thing had bred and infested both the castle and the surrounding grounds. They're requesting extra personnel to deal with the problem.  I idly find it fascinating what constitutes an emergency now that we're no longer at war.  But I led armies to conquer kingdoms, not exterminate a pest infestation, and so I decide to leave them to their pests.  I authorize their extra personnel.
 
-The head cook is probably the person you most want to be happy.  And even though I've barely eaten lately, I'm confident we will soon find the person (or people) trying to poison me.  I need this man to be happy, and so I listen closely as he describes how some significant portion of imported meats had gone bad somehow, making it urgent I allow him to order an extra shipment.  I wonder if it was the same shipment the rodents had stowed away on. 
+The head cook is probably the person you most want to be happy.  And even though I've barely eaten lately, I'm confident we will soon find the person (or people) trying to poison me.  I need this man to be happy, and so I listen closely as he describes how some significant portion of imported meats had gone bad somehow, making it urgent I allow him to order an extra shipment.  I wonder if it was the same shipment the rodents had stowed away on.
 My eyes widen at a brilliant idea.  The poor man goes sheet white even as I fail to hide my teeth behind the grin forming on my face.  I can't believe they didn't see it. It's the perfect solution.
 
-"Oh no, your majesty, we can't _eat_ those... we have... I'd be _ruined_ Sire, utterly ruined.  Nobody would eat my food ever again.  Please, your majesty, we have a certain standard of quality our food _must_ conform to..." 
+"Oh no, your majesty, we can't _eat_ those... we have... I'd be _ruined_ Sire, utterly ruined.  Nobody would eat my food ever again.  Please, your majesty, we have a certain standard of quality our food _must_ conform to..."
 Wow, the man was genuinely descending into a full-blown panic. You'd almost have thought I suggested he cook with dirt.
 
 I notice movement out of the corner of my eye and turn to see the Chamberlain and Groundskeeper quickly making themselves scarce before I have a chance to rescind their authorization.  Cowards.  I turn back to the Cook who hasn't even noticed my lack of attention. He's segued into an accounting of specific pathogens carried by common pests and the effect of their diseases, which I'm pretty sure can't be right.  I mean, isn't that why we _cook_ things in the first place?
 
-The man hasn't really taken a breath yet and I grow concerned. "Of course, I _never_ meant to suggest that at all.  You certainly have the authority to secure more food and you know you have my utmost confidence," I say as magnanimously as I can.  As I said, I need the man happy. 
-The man closes his eyes a moment, takes a deep breath, and slowly releases it before saying, "Thank you your majesty." I can't help but notice he doesn't pause. 
+The man hasn't really taken a breath yet and I grow concerned. "Of course, I _never_ meant to suggest that at all.  You certainly have the authority to secure more food and you know you have my utmost confidence," I say as magnanimously as I can.  As I said, I need the man happy.
+The man closes his eyes a moment, takes a deep breath, and slowly releases it before saying, "Thank you your majesty." I can't help but notice he doesn't pause.
 
 My slow procession down the hall includes a large parade of Nobles trying to curry my favor. I used to think that gold was the power that made the world go around.  I was an idiot.  These people shit gold.  No, what makes the world work is favors and as King, I'm expected to give out favors, especially to those who favored me during the war.  Of course, no one here actually favored me during the war but I admit some turned coat quicker than others.  Those were the smart ones, the sociopaths.  The ones who opposed me were the loyal ones.  So I'm expected to give favors to disloyal sociopaths concocting obscenely complex schemes, while at the same time disfavoring the only people truly loyal to the kingdom.
 
 Also, I suspect every single one of them as my poisoner.  And why wouldn't I?  They concoct schemes, care only for power, trade only in favors, and they smile way, way too much.  
 
-I'm about halfway down the hall now, giving out what is probably my tenth no, when the entire procession comes to screeching halt. 
+I'm about halfway down the hall now, giving out what is probably my tenth no, when the entire procession comes to screeching halt.
 
 I blink.  Two of my wives stand before me and they look livid.  Panic sets in as I desperately try to remember their names.  Nobody around me is close enough to ask except for the Nobles and I could only imagine what would happen if I tried to ask one what the names were of my two wives standing before me. Let's just agree it would be really bad.  No, I needed to be very careful how I handle this.
 
@@ -120,13 +120,13 @@ I blink.  Two of my wives stand before me and they look livid.  Panic sets in as
 
 "Did you actually _give_ her an entire floor of the eastern wing?" one of them demanded loudly while pointing at the other.
 
-"He _did_ and you have _no right_ to take it from me!" 
+"He _did_ and you have _no right_ to take it from me!"
 
-Wow, did I really give someone an entire floor?  I rack my mind and try to recall doing this.  I doubt she would lie about something like that.  That would only lead to a quick death for her.  On the other hand, I obviously have trouble keeping track of these things.  The more I think about it, though, the more familiar it sounds.  I look closer at my suspect wife, the one I supposedly gave a floor to, and suddenly it clicks.  Oh yeah, I _did_ give her a floor.  That was… that was a _really good_ night.  Oh, she earned it. 
+Wow, did I really give someone an entire floor?  I rack my mind and try to recall doing this.  I doubt she would lie about something like that.  That would only lead to a quick death for her.  On the other hand, I obviously have trouble keeping track of these things.  The more I think about it, though, the more familiar it sounds.  I look closer at my suspect wife, the one I supposedly gave a floor to, and suddenly it clicks.  Oh yeah, I _did_ give her a floor.  That was… that was a _really good_ night.  Oh, she earned it.
 
 "I did." I'm careful to make sure I use that even tone I'd applied earlier. I'm trying hard to keep things civil.
 
-Silence descends as the accusing wife goes very, very still.  I watch in fascination as her face loses all trace of emotion, flattening into a carefully blank expression that reveals nothing. 
+Silence descends as the accusing wife goes very, very still.  I watch in fascination as her face loses all trace of emotion, flattening into a carefully blank expression that reveals nothing.
 "I see." 
 
 She turns and calmly walks away.  The clack of her heels echo somehow seem to fill the hall and I notice even the nobles look nervous.  The wife with the floor looks delighted as she follows the first one. I'm pretty sure something significant just happened but I know from experience that I will never understand my wives.  They play at games that make the Nobles look like rank amateurs.  My mind spins as I try to figure out just what I'd done.
@@ -134,23 +134,23 @@ She turns and calmly walks away.  The clack of her heels echo somehow seem to fi
 I make it to the end of the hall before I realize I've completely ignored the Nobles. They've been getting more and more insistent while my mind plays over the events with my wives.  They eventually become loud enough that I'm forced out of my thoughts and I turn to stare at them blankly.  I wonder whether they're more incensed at being ignored or being told no.  I decide it doesn't matter, so I turn away without a word.
 
 I stop at the end of the hall and pause. I'm missing something important.  I turn back and look around before spotting my two generals waiting patiently toward the back
-. 
+.
 Ah yes, that was it.  My ticket out of this trap. 
 
 I wave off the Nobles amidst angry mutters but they do as they're told.  Even they know I have limits.  My generals approach and I'll admit I'm a little excited.  Just seeing them brings to mind the old days when I swung a sword and commanded armies in a terrifying march of conquest.  They then speak and I wish I'd ignored them too.
 
 At first, I'm stunned by what they say.  As they continue to speak, a large rock solidifies in my gut and drags me down into the depths of desolation.  I have trouble processing their words, despite the evil simplicity of their logic.  Accepting it is unthinkable.
- 
+
 They want to reduce the army. It's too large, too difficult to manage, too expensive to maintain.  The soldiers need to go home and build real lives, marry women and contribute to the Kingdom.  At our present size, if the biggest threat to my Kingdom ever chose to attack, barely a tenth of my army would need to even wake up in the morning to defeat them.  And so my generals, the men who'd help me conquer Kingdoms and overcome impossible odds, were telling me my army was too big.
 
 I don't cry. I'm a warlord.  So instead, I hem and haw, rationalize weakly, and then finally promise to think about it.  Of course, I'll listen to them.  Of course, I'll follow their advice.  I didn't conquer the seven Kingdoms by ignoring my generals. I'll do it, I promise. It's just… well, when I do, I think a part of me will die and all that will be left is this… this, throne.
 
 I turn on my heels and head into the throne room as dangerous thoughts and fantasies fill my mind.  Can I start a new war?  Maybe try and conquer Lorian? They're not part of the seven Kingdoms but that's mostly because of the impassable mountain range between us.  Troop movements would be horrendously difficult across the mountain passes but at least it'd be a challenge.
- 
+
 Or... or... or maybe I can start a rebellion, instead?  I know it may seem horrifying to orchestrate a rebellion against myself but at least it would get me away from these pandering fools.  All of these thoughts and more fill my mind as I enter the throne room.
 
 The room itself is massive, something like three or four stories high with incredible marble pillars — gilded in gold of course — and stain glass windows spraying the room in an indiscernible tapestry of color.  I vaguely recall my awe when I first walked into this room victorious, sword in hand as all the Nobles trembled before me.  I hadn't realized at the time this place was a prison in all but name.
- 
+
 Toward the back from where I enter is a dais no less than twenty steps raised above the rest of the room.  It is, quite literally, on the second floor.  Anyone stupid enough to rush up the steps would barely make it to the fifth one before they were cut down by a dozen or so archers above.  For some reason, that doesn't make me feel better.  I enter on the level of the throne and once again feel happy I don't have to actually climb the twenty steps. I'm not lazy. It's just that I'm reasonably sure I wouldn't make it up in these stupid robes before tripping near the top only to die on the way back down.  I can't decide if that would be good or bad.
 
 There are two thrones.  Mine is a massive, gold monstrosity set dead center and beside it is a smaller one for my first wife. She's not called a queen, by the way.  She would only be called that if she were in my place as ruler of the Kingdoms.  But because she's not queen, she doesn't have to actually be here for the petitions.  And she's not.  She never is.  I forgive her, though.  Of all my wives, Sorai is the only one I know for certain who loves me. She's the only one who's treated me with admiration and compassion.  So yes, I wish she were here if only to share this burden with someone.
@@ -161,9 +161,9 @@ Once I sit, the endless procession of petitions begin. They're all the same. The
 
 The first case is a land dispute.  The offended parties are trotted out with an obscene amount of papers and documentation proving they own the contended land.  Each will probably talk about long traditions and how the land had been passed down through the generations.  If I'm lucky, the dispute will have devolved into a blood feud and I'll get to hear about how their sons and daughters killed each other over the piece of dirt.
 
-I'm not lucky.  Not only is there no blood feud but it seems to boil down to some incompetent, long dead constable who managed to allocate overlapping lands.  I idly wonder if I can have his descendants put to death.  The man should not have been propagating his seed.  I also wonder how it went so long without anyone noticing but then realize I don't care. 
+I'm not lucky.  Not only is there no blood feud but it seems to boil down to some incompetent, long dead constable who managed to allocate overlapping lands.  I idly wonder if I can have his descendants put to death.  The man should not have been propagating his seed.  I also wonder how it went so long without anyone noticing but then realize I don't care.
 
-What I do notice is there's a road nearby, and that gives me a wonderful idea.  So I interrupt whatever inane argument they're babbling about and have the map of the region brought up to me.  After waiting for some servant to make the arduous trek up to my heights, I take quill and ink and begin to draw.  First, I shift the road between the two properties. It's a little out of the way, but that road was curvy to begin with.  Realizing the road is too narrow for more than one cart, I double its width.  Now, just to be safe, I add margins on each side of the road in case weary travelers need to stop.  Of course, roads are the property of the Kingdom, so I annex all that land.  Once done, I lean back and look in satisfaction at the map.  Each party's property has probably been reduced by almost half from the land I took for the road.  I think it an appropriate cost for wasting my time. 
+What I do notice is there's a road nearby, and that gives me a wonderful idea.  So I interrupt whatever inane argument they're babbling about and have the map of the region brought up to me.  After waiting for some servant to make the arduous trek up to my heights, I take quill and ink and begin to draw.  First, I shift the road between the two properties. It's a little out of the way, but that road was curvy to begin with.  Realizing the road is too narrow for more than one cart, I double its width.  Now, just to be safe, I add margins on each side of the road in case weary travelers need to stop.  Of course, roads are the property of the Kingdom, so I annex all that land.  Once done, I lean back and look in satisfaction at the map.  Each party's property has probably been reduced by almost half from the land I took for the road.  I think it an appropriate cost for wasting my time.
 
 I hand the map back and explain what will happen as the map slowly makes its way back down.  Since I don't want to hear the inevitable whimpering about lost land, revenue, crops, or whatever, I proceed to explain that if either party opens their mouth to object, they will immediately be put to death, their lands forfeit to the other.  To my delight, silence descends on the room.  I watch in amusement as several people move out of line.  Some of them are talking to each other, obviously somehow finding a way to reconcile irreconcilable differences.  Realizing what I'd just done, I smile.
 
@@ -195,9 +195,9 @@ She gets up and walks down the long side of the table with a pitcher in hand.  M
 
 "Just give them time. I'll make sure they see reason, husband."  Did she pause?
 
-"You? What are you going to do?" I can't quite recall ever drinking something this good. 
+"You? What are you going to do?" I can't quite recall ever drinking something this good.
 
-"Reshape the Kingdom, dear." 
+"Reshape the Kingdom, dear."
 
 It takes me a moment to process her words.  It takes me several more as I watch her backside sashay toward a nearby desk.  Reshape the kingdom?  What does that even mean?  
 
@@ -211,7 +211,7 @@ I reach for my cup but find my hand struggling to respond.  Now I really am impr
 
 "You."
 
-I frown and try to reach for my cup again but my hand refuses to respond.  My head continues to swim as I look toward my wife who has turned back around and is walking over.  Her gait is slow and confident.  Her sashay is gone.  Something niggles at me, doubt maybe, but I can't be sure.  When did it get so bright in here? 
+I frown and try to reach for my cup again but my hand refuses to respond.  My head continues to swim as I look toward my wife who has turned back around and is walking over.  Her gait is slow and confident.  Her sashay is gone.  Something niggles at me, doubt maybe, but I can't be sure.  When did it get so bright in here?
 
 Suddenly, she stands before me.  I swear by all the gods I did not see her take those final steps. She takes my jaw tenderly in her hand and tilts it up so my eyes meet hers.  I blanch. I see no love in those eyes, only victory.
 
@@ -221,7 +221,7 @@ Her tone has turned cruel, her smile vicious.  But it's the pause that strikes m
 
 She flings my face away with such force that I feel my head snap around before bouncing back.  From the corner of my eye, I can see that her other hand holds a dagger and I know with certainty she intends to kill me with it.  
 
-I distantly regret that I will not die in glorious combat but instead will have my throat slit like some animal led to the slaughter.   Yet I do not feel fear.  Nor do I feel anger.  Nor do I feel despair.  I feel nothing as my emotions continue to die under the numbness that even now begins to creep up into my face. 
+I distantly regret that I will not die in glorious combat but instead will have my throat slit like some animal led to the slaughter.   Yet I do not feel fear.  Nor do I feel anger.  Nor do I feel despair.  I feel nothing as my emotions continue to die under the numbness that even now begins to creep up into my face.
 
 The last thing I see is the hate in my wife's eyes before the darkness takes my sight.  The last thing I hear are shouts and what I think is a fight.  My last thought is regret that I could not join it.
 
@@ -229,7 +229,7 @@ The last thing I see is the hate in my wife's eyes before the darkness takes my 
 
 I feel a gentle rolling in the darkness.  The back and forth of the constant motion lulls me for a while until I feel a lurch that drives my head into wood.  I groan, daring to open my eyes but the sun spears my mind through them, creating a splitting headache.
 
-"Ah!  The fool's awake!" 
+"Ah!  The fool's awake!"
 
 I recognize that voice. I've fought with that voice, conquered with that voice.  It is one of my generals and the best one at that, Joren. 
 
@@ -310,10 +310,10 @@ I'd never bothered to find out.  The seven Kingdoms were all I'd cared about dur
 "Nope, just what I heard."
 
 We both fall into silence.  I look behind me to see one of my other generals, Kreche, sitting with a pair of reign loosely held in his lap.  No, not a general.  These men lead no armies anymore.  Instead, I decide to think of them as just friends.  It was better that way.  We were friends before we started this whole damn conquest and now we're friends again.
- 
+
 Kreche looks exactly like a farmer.  I look down and notice that I do too.  Oddly, I don't mind.  The cloth itches a little but I know it'll soon fade.  More importantly, it is the last time someone will ever dress me.
 
-"Any plans?" Kreche turns around to look over. 
+"Any plans?" Kreche turns around to look over.
 
 "No idea."  
 

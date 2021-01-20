@@ -11,15 +11,26 @@ layout: default
     {% for post in site.categories[page.tag] %}
     <article class="post">
     
+        {% assign tags = post.categories | where_exp: "tag", "tag != page.tag"  %}
+        {% if tags.size > 0 %}
+            <div class="tag-container">
+                {% for category in tags %}
+                <div class="tag">{{ category }}</div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
         {% if post.image %}
             <img class="thumbnail" src="{{ post.image }}" />
         {% endif %}
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    
+
         <div class="date">
             {{ post.date | date: "%B %e, %Y" }}
         </div>
     
+
         <div class="entry">
             {{ post.excerpt }}
         </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Devil's Bargain
-categories: [first-chapter]
+categories: [first-chapter, story]
 date: 2020-05-20 13:20:00
 ---
 

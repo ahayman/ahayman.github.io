@@ -311,13 +311,6 @@ nav {
 .tag-container {
   display: flex;
   flex-direction: row;
-  justify-content: start;
-  align-items: center;
-}
-
-.archive-tag-container {
-  display: flex;
-  flex-direction: row;
   justify-content: end;
   align-items: center;
   float: right;
