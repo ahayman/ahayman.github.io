@@ -150,6 +150,10 @@ img {
   max-width: none;
 }
 
+.logo-svg {
+  fill: var(--color-standard-text)
+}
+
 .entry img:not(.sm-img):not(.extra-sm-img) {
   width: 300pt;
   display: block;
