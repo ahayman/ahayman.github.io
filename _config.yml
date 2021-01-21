@@ -23,7 +23,7 @@ email: aaron@flexile.co
 description: >- # this means to ignore newlines until "baseurl:"
   Aspiring Writer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aaronhayman.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year-:month-:day-:title/
 excerpt_separator: <!--more-->
 favicon: /favicon.ico
