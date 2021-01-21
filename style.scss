@@ -150,7 +150,7 @@ img {
   max-width: none;
 }
 
-.entry img :not(.sm-img) :not(.extra-sm-img) {
+.entry img:not(.sm-img):not(.extra-sm-img) {
   width: 300pt;
   display: block;
   margin-left: auto;
