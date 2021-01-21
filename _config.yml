@@ -26,11 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year-:month-:day-:title/
 excerpt_separator: <!--more-->
+favicon: /assets/images/favicon.ico
 
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: ahayman@gmail.com
+  facebook: aaronhayman
   flickr:
   github: ahayman
   instagram:
@@ -46,6 +47,7 @@ footer-links:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 sass:
   style: :compressed

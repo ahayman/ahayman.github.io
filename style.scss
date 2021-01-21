@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .thumbnail {
   float: right;
-  height: 200pt;
+  width: 150pt;
   border-radius: 8pt;
   margin-left: 10pt;
 }
@@ -91,7 +91,7 @@ h3 {
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 16px;
   color: var(--color-subText);
 }
 
@@ -148,6 +148,25 @@ img {
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
+}
+
+.entry img :not(.sm-img) :not(.extra-sm-img) {
+  width: 300pt;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8pt;
+}
+
+.extra-sm-img {
+  width: 100pt;
+  margin-right: 10pt;
+  border-radius: 4pt;
+}
+.sm-img {
+  width: 150pt;
+  margin-right: 10pt;
+  border-radius: 5pt;
 }
 
 .date {
@@ -277,6 +296,18 @@ img {
   }
 }
 
+.nav-social {
+  flex-direction: column;
+  align-items: center;
+
+  h4 {
+    text-align: right;
+  }
+  @include mobile {
+    display: none;
+  }
+}
+
 nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -359,20 +390,34 @@ nav {
 }
 
 #theme-toggle {
-  height: 40px;
-  margin: 0px 5px;
-  margin-top: 7px;
+  height: 20;
+  font-size: 8pt;
   color: var(--color-standard-text);
   background: var(--color-background);
-  border-color: var(--color-subText);
   border-radius: 4pt;
   text-align: center;
+  position: absolute;
+  bottom: 5px;
+  left: 2px;
+  right: auto;
+  top: auto;
+
+  @include mobile {
+    bottom: auto;
+    left: auto;
+    top: 5px;
+    right: 5px;
+  }
 }
 
 .wrapper-footer {
+  display: none;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: var(--color-select);
+  @include mobile {
+    display: block;
+  }
 }
 
 .commento-root textarea {

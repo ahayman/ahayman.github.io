@@ -42,6 +42,7 @@
 <body>
     <div class="page-layout">
         <div class="nav-container">
+            <button id="theme-toggle" onclick="modeSwitcher()"></button>
             <header class="header">
                 <div class="site-info">
                     <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/assets/images/logo.png" /></a>
@@ -58,6 +59,10 @@
                     <a href="{{ site.baseurl }}/thoughts">Thoughts</a>
                     <a href="{{ site.baseurl }}/about">About</a>
                     <a href="{{ site.baseurl }}/archive">Archive</a>
+                    <div class="nav-social">
+                        <h4>Social</h4>
+                        {% include svg-icons.html %}
+                    </div>
                 </nav>
 
             </header>
@@ -71,7 +76,6 @@
             <div class="wrapper-footer">
                 <footer class="footer">
                     {% include svg-icons.html %}
-                    <button id="theme-toggle" onclick="modeSwitcher()"></button>
                     <a style="margin-left: 5pt; align-self: center;" href="{{ site.baseurl }}/tos">Privacy Policy</a>
                 </footer>
             </div>
@@ -84,21 +88,21 @@
         const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
 
         if (theme === "dark") {
-            document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+            document.getElementById("theme-toggle").innerHTML = "Dark";
         } else if (theme === "light") {
-            document.getElementById("theme-toggle").innerHTML = "Light Mode";
+            document.getElementById("theme-toggle").innerHTML = "Light";
         } else if (userPrefers === "dark") {
             document.documentElement.setAttribute('data-theme', 'dark');
             window.localStorage.setItem('theme', 'dark');
-            document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+            document.getElementById("theme-toggle").innerHTML = "Dark";
         } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
             document.documentElement.setAttribute('data-theme', 'dark');
             window.localStorage.setItem('theme', 'dark');
-            document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+            document.getElementById("theme-toggle").innerHTML = "Dark";
         } else {
             document.documentElement.setAttribute('data-theme', 'light');
             window.localStorage.setItem('theme', 'light');
-            document.getElementById("theme-toggle").innerHTML = "Light Mode";
+            document.getElementById("theme-toggle").innerHTML = "Light";
         }
 
         function modeSwitcher() {
@@ -106,11 +110,11 @@
             if (currentMode === "dark") {
                 document.documentElement.setAttribute('data-theme', 'light');
                 window.localStorage.setItem('theme', 'light');
-                document.getElementById("theme-toggle").innerHTML = "Light Mode";
+                document.getElementById("theme-toggle").innerHTML = "Light";
             } else {
                 document.documentElement.setAttribute('data-theme', 'dark');
                 window.localStorage.setItem('theme', 'dark');
-                document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+                document.getElementById("theme-toggle").innerHTML = "Dark";
             }
         }
 

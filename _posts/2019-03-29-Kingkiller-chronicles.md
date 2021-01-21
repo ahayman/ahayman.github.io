@@ -5,8 +5,13 @@ categories: [review]
 image: https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg
 ---
 
+<img class="sm-img" alt="Name of the Wind Book Cover" src="https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg" /> 
+<img class="sm-img" alt="The Wise Man's Fear Book Cover" src="https://images-na.ssl-images-amazon.com/images/I/51qKDJ8lPeL._SY346_.jpg" /> 
+
 ### Name of the Wind & Wise Man’s Fear
 _by Patrick Rothfuss_
+
+<!--start-->
 
 If I had to point out one defining aspect to Rothfuss’ writing it would be that the man can _linger_.  I had never considered this might be a strength before reading his books, nor would I have called the ability to linger a skill.  On the contrary, most of what I’ve read about writing novels, even epic ones, is that you should only put in the book what is necessary.  Too much detail, too much prose, too much exposition, and you’ll quickly lose the reader.  Show, don’t tell, and only show enough to draw the reader in and drive them into the next scene.  The pages should turn themselves.
 
@@ -36,7 +41,6 @@ Rothfuss could have written a much smaller, action-packed book(s) with the same 
 
 ----
 
-![Name of the Wind](https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg) ![THe Wise Man's Fear](https://images-na.ssl-images-amazon.com/images/I/51qKDJ8lPeL._SY346_.jpg)
 
 #### Author Info
 

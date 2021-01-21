@@ -5,7 +5,11 @@ categories: [review]
 image: https://m.media-amazon.com/images/I/5190ee+L4OL.jpg
 ---
 
+![Book Cover](https://m.media-amazon.com/images/I/5190ee+L4OL.jpg)
+
 _by [Becky Chambers](https://www.otherscribbles.com)_
+
+<!--start-->
 
 I came across this book from a recommendation list published by... The Verge, I think? Or somewhere. It was recommended, had a lot of good reviews on Amazon, and I was itching for some sci-fi after going on a bit of a fantasy binge of late. Also, it was maybe $7, just within my impulse book-buy range [^1].
 
@@ -34,7 +38,6 @@ But I can't help but feel there's missed opportunity here. While action books ar
 And I should really point out that in at least one chapter toward the end, she tries. I won't spoil anything, but the crew is placed in a difficult situation after an incident. She follows some of the characters as they work through it and you see at least one character truly struggle to deal with it. It still fell flat for me. It wasn't bad; I just didn't see any key inflection points in any of the character's arcs. Toward the end of that chapter, I was wanting the crew to resolve it about as much as they did.
 
 I believe this was her début novel, which is exciting. Yes, some parts fell flat, and there were segments I found rather boring. I also kept picking up the book, and that in itself is worthy praise. I look forward to reading some of her later works to see how she's developed as an author.
-
 
 
 [^1]: But $9... whew, I dunno. I gotta really think about it then. :-/

@@ -6,14 +6,22 @@ excerpt-separator: <!--more-->
 image: https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg
 ---
 
+<img class="extra-sm-img" alt="Book Cover" src="https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg" /> 
+<img class="extra-sm-img" alt="Book Cover" src="https://images-na.ssl-images-amazon.com/images/I/51V6d86bN1L._SY346_.jpg" /> 
+<img class="extra-sm-img" alt="Book Cover" src="https://images-na.ssl-images-amazon.com/images/I/51b4tNZQeeL.jpg" /> 
+<img class="extra-sm-img" alt="Book Cover" src="https://images-na.ssl-images-amazon.com/images/I/5140fuc%2B8iL.jpg" />
 
 _by Melissa McPhail_
 
+<!--start-->
+
 I started reading these books about the time my eldest son fell ill, trapping me on the couch while he watched kid shows.  He kindly passed the virus to me, giving me both time and motivation to dive into a good series.  I ended up reading all four of her books (the fifth one comes out in June) within a week, which makes it easy to review them all at once.  
 
-<!--more-->
+On the whole, I enjoyed the books and I’m looking forward to reading the next one in the series, but I have to admit there are a few weakness in the plot and structure I feel could have been done better.  This means a lot of this review will be spent looking at those weaknesses, and yet I don’t want to give the impression that the series is bad.  It’s not.  In fact, I rather suspect that any series this large must inevitably contain weaknesses, even if those faults are due only to preference (and some of what I mention certainly is).  I loved reading the Wheel of Time and those books had some serious issues.  McPhail’s books are of similar scope, so it’s not unreasonable to expect similar issues. And so while I will expound them, I must reiderate: I really enjoyed these books.
 
-On the whole, I enjoyed the books and I’m looking forward to reading the next one in the series, but I have to admit there are a few weakness in the plot and structure I feel could have been done better.  This means a lot of this review will be spent looking at those weaknesses, and yet I don’t want to give the impression that the series is bad.  It’s not.  In fact, I rather suspect that any series this large must inevitably contain weaknesses, even if those faults are due only to preference (and some of what I mention certainly is).  I loved reading the WoT… and those books had some serious issues.  McPhail’s books are of similar scope, so it’s not   
+Let's dive in.
+
+<!--more-->
 
 To start out, the series aims at being epic and does a reasonably good job.  McPhail juggles probably a dozen separate storylines and I’d guess that maybe half of these are the main protagonists.  This shifts somewhat throughout the series as ‘side’ characters come to the fore and even antagonists switch sides but on the whole, you’re following quite a few different interrelated stories all at once.
 
@@ -78,11 +86,6 @@ It may seem like I’m harping on the author and the series, but the truth is I 
 In the end, McPhail set out to create a new epic series and she succeeded.  Moreover, she created something _unique_, engaging, and interesting.  That is no small feat.  She's done something remarkable and I think she’s earned a great recommendation for her books.
 
 ---
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg" width="100" /> 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51V6d86bN1L._SY346_.jpg" width="100" /> 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51b4tNZQeeL.jpg" width="100" /> 
-<img src="https://images-na.ssl-images-amazon.com/images/I/5140fuc%2B8iL.jpg" width="100" />
 
 ---
 

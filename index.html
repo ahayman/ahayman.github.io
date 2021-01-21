@@ -22,7 +22,7 @@ layout: default
           {{ post.date | date: "%B %e, %Y" }}
       </div>
       <div class="entry">
-        {{ post.excerpt }}
+        {{ post.excerpt | split: "<!--start-->" | last }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

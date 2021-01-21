@@ -6,7 +6,11 @@ excerpt-separator: <!--more-->
 image: https://images-na.ssl-images-amazon.com/images/I/51OQVuWWSIL.jpg
 ---
 
+![Six Sacred Swords Book Cover](https://images-na.ssl-images-amazon.com/images/I/51OQVuWWSIL.jpg)
+
 _by Andrew Rowe_
+
+<!--start-->
 
 I think the biggest surprise to me in this book was that I had unwittingly read other books about the main character.  So, the main character, Keras, is a significant side character in Rowe’s Arcane Ascension series — something I already knew.  This book, though, starts its own series by using the latest events in Arcane Ascension as an excuse for Keras to tell his story as a flashback in the first person.  It’s a neat plot mechanic that I found cleverly implemented.
 
@@ -43,8 +47,6 @@ So for me, it was a fun read with lots of laughs and some decent adventure, but 
 But this is just the first of what I’m sure are many books in this series.  Rowe has a lot of room here to flesh out and deepen his characters.  I hope he does because, on the whole, I’ve gotten to enjoy this world he created and look forward to reading the next in the series.    
 
 ----
-
-![Six Sacred Swords Book Cover](https://images-na.ssl-images-amazon.com/images/I/51OQVuWWSIL.jpg)
 
 #### Author Info
 
