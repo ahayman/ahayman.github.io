@@ -2,10 +2,10 @@
 layout: post
 title: Brother Sketch
 categories: [sketch]
-image: /assets/images/brother-standard.png
+image: https://photos.aaronhayman.com/uploads/small/3239beb6b5587dff527a85347e714989@2x.png
 ---
 
-![Sketch of Brother](/assets/images/brother-standard.png)
+![Sketch of Brother](https://photos.aaronhayman.com/uploads/medium/3239beb6b5587dff527a85347e714989@2x.png)
 
 _My brother, Mike._
 
@@ -31,7 +31,11 @@ Despite all those... deficiencies, I still think it's a decent sketch. I've capt
 
 I believe I spent maybe four or five hours on it.
 
+---
+
+[Full Image](https://photos.aaronhayman.com/view?p=16113413824936)
+
+[Sketch Album](https://photos.aaronhayman.com/r/16113393858894)
+
+
 [^1]: Although my own kids are also good at this. More on those in later posts.
-
-
-[Full Image](/assets/images/brother-full.png)
