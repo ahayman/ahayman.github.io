@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sketches and Stories
-categories: [update]
+category: updates
 date: 2021-01-20 09:10:00
 ---
 

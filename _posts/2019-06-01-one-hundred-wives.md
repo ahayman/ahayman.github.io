@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "One Hundred Wives"
-categories: [short, story]
+category: stories
+tag: short
 ---
 
 

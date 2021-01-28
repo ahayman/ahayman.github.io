@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Begging Questions"
-categories: [thoughts]
+category: thoughts
 ---
 
 Begging the question: A logical fallacy whereby a presupposed conclusion drives the questions of the argument to support the conclusion.

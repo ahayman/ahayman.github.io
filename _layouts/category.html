@@ -3,19 +3,20 @@ layout: default
 ---
 
 <div class="posts">
+    <a class="category_rss" href="{{ site.baseurl }}/feed/{{ page.tag }}.xml"><i class="svg-icon rss"></i></a>
     <h1><small>{{ page.title }}</small></h1>
     {% if content %}
         {{ content }}
     {% endif %}
+    <hr />
 
     {% for post in site.categories[page.tag] %}
     <article class="post">
     
-        {% assign tags = post.categories | where_exp: "tag", "tag != page.tag"  %}
-        {% if tags.size > 0 %}
+        {% if post.tags.size > 0 %}
             <div class="tag-container">
-                {% for category in tags %}
-                <div class="tag">{{ category }}</div>
+                {% for tag in post.tags %}
+                <div class="tag">{{ tag }}</div>
                 {% endfor %}
             </div>
         {% endif %}

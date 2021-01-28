@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magic Bitter Magic Sweet"
-categories: [review]
+category: reviews
 image: https://images-na.ssl-images-amazon.com/images/I/51odUtgGCTL.jpg
 ---
 

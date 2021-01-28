@@ -1,5 +1,5 @@
 ---
 title: Stories
-tag: story
+tag: stories
 permalink: "/stories"
 ---

@@ -64,6 +64,22 @@ defaults:
     values:
       layout: "category"
 
+author:
+  picture: /assets/images/profile_pic_sm.png
+  facebook: aaronhayman
+  twitter: aaronhayman
+  email: ahayman@gmail.com
+
+feed:
+  posts_limit: 20
+  categories: 
+    - updates
+    - reviews
+    - sketches
+    - quotes
+    - stories
+    - thoughts
+    - writing
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks

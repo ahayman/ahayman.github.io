@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Argumentative Assertion
-categories: [thoughts]
+category: thoughts
 date: 2021-01-26 16:07:19
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Cognito Integration
-categories: [first-chapter, story]
+category: stories
+tags: first-chapter
 date: 2021-01-27 08:27:12
 ---
 

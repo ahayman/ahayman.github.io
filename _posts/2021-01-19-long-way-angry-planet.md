@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Long Way to a Small, Angry Planet"
-categories: [review]
+category: reviews
 image: https://m.media-amazon.com/images/I/5190ee+L4OL.jpg
 ---
 

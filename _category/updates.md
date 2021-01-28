@@ -1,5 +1,5 @@
 ---
 title: Updates
-tag: update
+tag: updates
 permalink: "/updates"
 ---

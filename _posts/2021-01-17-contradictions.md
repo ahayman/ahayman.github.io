@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contradiction
-categories: [thoughts]
+category: thoughts
 ---
 
 What's the term for a statement that contradicts itself if it's true?

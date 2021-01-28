@@ -311,18 +311,25 @@ img {
   flex-direction: column;
   align-items: center;
 
-  h4 {
-    text-align: right;
-  }
   @include mobile {
     display: none;
   }
+}
+
+.category_rss {
+  float: right;
+  margin-left: 10pt;
+  margin-top: 10pt;
 }
 
 nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+
+  h4 {
+    text-align: right;
+  }
 
   @include mobile {
     float: none;

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What to Expect"
-categories: [update]
+category: updates
 ---
 
 Welcome to my new blog!  Mostly, this is a place for me to share my short stories and post any news related to me and writing.  I may also end up turning this into my central hub for other writing projects, but that’s for the future.

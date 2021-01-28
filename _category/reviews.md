@@ -1,5 +1,5 @@
 ---
 title: Reviews
-tag: review
+tag: reviews
 permalink: "/reviews"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work and Play"
-categories: [writing]
+category: writing
 ---
 
 I first started writing a couple of years ago.  I did it on a whim.  I was tired of reading the same thing and wanted to try my hand at writing something I'd like.  

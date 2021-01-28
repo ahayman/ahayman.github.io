@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nolan (my youngest)
-categories: [sketch]
+category: sketches
 image: https://photos.aaronhayman.com/uploads/small/aa4bdeb0bf40e82a76eb55b7e042f642@2x.png 
 date: 2021-01-23 11:30:00
 ---

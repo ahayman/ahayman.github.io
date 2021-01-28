@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fiona (my daughter)
-categories: [sketch]
+category: sketches
 image: https://photos.aaronhayman.com/uploads/small/87416148fb94c7e596e4aee6edbc4f07@2x.png
 date: 2021-01-22 16:15:00
 ---

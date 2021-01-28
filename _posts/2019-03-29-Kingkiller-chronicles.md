@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kingkiller Chronicles"
-categories: [review]
+category: reviews
 image: https://images-na.ssl-images-amazon.com/images/I/51MUF7bj-lL._SY346_.jpg
 ---
 

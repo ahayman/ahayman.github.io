@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "iOS Writing Bliss"
-categories: [writing, tools]
+category: writing
+tag: tools
 ---
 
 I have absurd requirements when it comes to writing. A big part of this comes from the fact that I've been developing software for over a decade. I have certain habits, tools, and expectations for how my work should proceed. Let's detail out my... issues.

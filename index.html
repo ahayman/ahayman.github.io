@@ -8,7 +8,7 @@ layout: default
 
       <div class="tag-container">
           {% for category in post.categories %}
-          <div class="tag">{{ category }}</div>
+            <a href="/{{ category }}"><div class="tag">{{ category }}</div></a>
           {% endfor %}
       </div>
 

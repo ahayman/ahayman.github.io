@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Six Sacred Swords"
-categories: [review]
-excerpt-separator: <!--more-->
+category: reviews
 image: https://images-na.ssl-images-amazon.com/images/I/51OQVuWWSIL.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Added First Chapters"
-categories: [first-chapter, update]
+category: updates
 date: 2020-05-20 12:00:00
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "A Pattern of Light and Shadow"
-categories: [review]
-excerpt-separator: <!--more-->
+category: reviews
 image: https://images-na.ssl-images-amazon.com/images/I/51Hnwpwb9vL.jpg
 ---
 

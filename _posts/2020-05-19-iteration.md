@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Iteration"
-categories: [writing]
+category: writing
 ---
 
 I've been somewhat astounded by just how similar writing is to software development [^1]. This is probably a self fulfilling prophecy. I've been developing software for years, so of _course_ I'd take the skills I learned there and apply it to my writing.

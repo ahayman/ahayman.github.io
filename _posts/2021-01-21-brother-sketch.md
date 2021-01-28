@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brother Sketch
-categories: [sketch]
+category: sketches
 image: https://photos.aaronhayman.com/uploads/small/3239beb6b5587dff527a85347e714989@2x.png
 ---
 
