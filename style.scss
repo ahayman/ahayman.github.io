@@ -378,7 +378,7 @@ nav {
 }
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 0.5em;
   border-bottom: 1px solid var(--color-select);
 }
 
@@ -401,10 +401,15 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+}
+
+.list-footer {
+  padding-bottom: 10pt;
+  padding-top: 10pt;
+}
+.read-more {
+  text-transform: uppercase;
+  font-size: 15px;
 }
 
 #theme-toggle {

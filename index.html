@@ -21,16 +21,19 @@ layout: default
       <div class="date">
           {{ post.date | date: "%B %e, %Y" }}
       </div>
+      {% assign excerpt = post.excerpt | split: '<!--start-->' | last %}
       <div class="entry">
-        {{ post.excerpt | split: "<!--start-->" | last }}
+        {{ excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% if excerpt != post.content %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% endif %}
     </article>
   {% endfor %}
 
-  <br />
-  <a href="{{ site.baseurl }}/archive" class="read-more">See All Posts</a>
-  <br />
+  <div class="list-footer">
+    <a href="{{ site.baseurl }}/archive" class="read-more">See All Posts</a>
+  </div>
   
 </div>

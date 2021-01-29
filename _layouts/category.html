@@ -32,11 +32,15 @@ layout: default
         </div>
     
 
-        <div class="entry">
-            {{ post.excerpt | split: "<!--start-->" | last }}
-        </div>
-    
+      {% assign excerpt = post.excerpt | split: '<!--start-->' | last %}
+      <div class="entry">
+        {{ excerpt }}
+      </div>
+
+      {% if excerpt != post.content %}
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% endif %}
+
     </article>
     {% endfor %}
 </div>
