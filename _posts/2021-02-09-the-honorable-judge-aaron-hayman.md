@@ -57,7 +57,7 @@ Ten minutes later the investigators rush back (cause you can't really ask for th
 
 Traces of the acid are discovered in the basement workshop (the only place murder is ever planned); the empty bottles of their constituent parts are discovered in the not-yet gathered trash bags out front. The husband's fingerprints are all over everything. Everything has been fully analyzed at this point. Yay! Go super investigators!  
 
-The eye witness sneaks of the courtroom, embarrassed, to go drown their sorrows in a bottle of whiskey... again.  
+The eye witness sneaks out of the courtroom, embarrassed, to go drown their sorrows in a bottle of whiskey... again.  
 
 Okay, let's take a step back from this comically contrived scenario and take another look. Each piece of evidence, from the eye witnesses to the cut line, the dna, etc, each are not enough to convict anyone. But when you add them up together, you eventually run out of alternative explanations. There comes a point where you have little choice but to say: "Yeah, the husband did it."  
 
