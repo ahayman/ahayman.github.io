@@ -31,6 +31,7 @@ Let's pick it apart.
 - The bottom lip pops just a little too much.
 - Eyes came out well. Those are definitely his eyes. I was also refining their shape right up to the end. Literally, last night I was tweaking them. It still amazes me how sensitive humans are to the shape of eyes. Impossibly small changes can make a huge affect in how we perceive a person's look. They're really important. I need to pay more attention to people's eyes.
 - Yes, there's something in his ear. It's a hearing aid. When Conan was born, they had to give him antibiotics which ended up damaging his hearing (tones in the verbal range sound muffled to him).
+- He somehow ended up looking slightly older than the reference photo. It's like I sketched him more as he is now than then. It's weird. I dunno if I was doing is subconsciously, or whether it's simply hard to get age right when sketching. The young especially can be difficult as the proportions of their face change subtly, but consistently over the years.
 - Plaid... err, let's make that a separate section.
 
 ### Plaid
