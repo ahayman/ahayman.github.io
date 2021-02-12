@@ -3,7 +3,7 @@ layout: post
 title: A Magician's Guide to Defensive Baking
 category: reviews
 image: https://m.media-amazon.com/images/I/51ADdpWrU5L.jpg
-date: 2021-02-03 08:49:13
+date: 2021-02-12 08:09:15
 ---
 
 ![Book Cover for A Magician's Guide to Defensive Baking](https://m.media-amazon.com/images/I/51ADdpWrU5L.jpg)
@@ -12,7 +12,9 @@ _by T. Kingfisher_
 
 <!--start-->
 
-A Magician's Guide to Defensive Baking (henceforth referred to as Defensive Baking for the sake of sanity) is a Story, capital S. In the fantasy/sci-fi world, writers will often try to bring a strong sense of realism to their worlds. They are, after all, _already_ assuming an unrealistic premise of magic and/or technology that might as well be magic. But there's also a segment of authors that lean in to the unrealistic, practically turning their stories into it's own metaphor.
+So I picked this one up off a Kindle recommendation. It was fantasy, it looked entertaining, it had a ton of good reviews, and it was on sale for a dollar. It wasn't even an impulse buy— my impulse to purchase it arrived after I'd pressed the button. It was also going to be a quick read, so I didn't feel like I needed to finish any of my other books before starting this one, a nice interlude before I return to whatever ongoing epic fantasy I'm currently consuming.
+
+A Magician's Guide to Defensive Baking (henceforth referred to as Defensive Baking for the sake of sanity) is a Story, capital S. In the fantasy/sci-fi world, writers will often try to bring a strong sense of realism to their worlds. They are, after all, already assuming an unrealistic premise of magic and/or technology that might as well be magic. But there's also a segment of authors that lean in to the unrealistic, practically turning their story into it's own metaphor.
 
 Defensive Baking is one of those books. It leans in toward the ridiculous, humorous, and the fantastical. It reads more like a fairy tale and a delightful one at that. It was a thoroughly enjoyable book, easy to read, and inviting to pick up. Kind of like a warm chocolate cookie, I found myself enjoying the simple process of reading a good simple story.
 
@@ -20,11 +22,11 @@ Defensive Baking is also a children's book.
 
 It's telling that I did not realize this until after I'd finished the book.
 
-<!--break-->
+<!--more-->
 
 I probably should have. About halfway through the book, the behavior of the adults, specifically one of the rulers of the city, started to feel off, perhaps even a little childish. Without the context of actually knowing this was a children's book (albeit, for older children) my mental model shifted from "fantasy" book to "fairy tale" book. 
 
-I didn't mind. The book was entertaining enough that I shrugged and wrote it off as necessary to the plot mechanics. Perhaps there was a way to make a more realistic plot, but I'm not sure it could be done _and_ keep it as short and entertaining as it was.
+I didn't mind. Already, I'd come across some ridiculous, but entertaining scenes. The book was entertaining enough that I shrugged and wrote it off as necessary to the plot mechanics. Perhaps there was a way to make a more realistic plot, but I'm not sure it could be done _and_ keep it as short and entertaining as it was.
 
 And so instead of realizing it was a children's book, I attributed to the author a certain amount of cleverness and craft. 
 
@@ -64,7 +66,11 @@ In retrospect, the protagonist isn't anymore or less powerful than she started o
 
 ## A standard suite of plot devices well done
 
+The story is a classic hero's journey, condensed. All the elements are there: leaving home, discovering oneself, coming home as something more, and using what you've gained to save your home.
 
+All I can really say is they were all well done. There's nothing revolutionary here, or even innovative. The author executed it flawlessly and injected a dose of the fantastical and comedic. It's a reminder that you don't need to reinvent things to make a good story.
+
+In the end, this isn't an author I'd go to for epics or drama or unique style, it's an author I'd go to because she knows her craft and executes it well [^4]. For that reason alone, I tap the follow button.
 
 
 #### Author Info
@@ -75,8 +81,8 @@ In retrospect, the protagonist isn't anymore or less powerful than she started o
 [Book Page](https://www.amazon.com/Wizards-Guide-Defensive-Baking-ebook/dp/B08CJ86Y1W)
 
 
-So I picked this one up off a Kindle recommendation. It was fantasy, it looked entertaining, it had a ton of good reviews, and it was on sale for a dollar. It wasn't even an impulse buy— my impulse to purchase it arrived after I'd pressed the button. It was also going to be a quick read, so I didn't feel like I needed to finish any of my other books before starting this one, a nice interlude before I return to whatever ongoing epic fantasy I'm currently consuming.
 
 [^1]: And I wouldn't know cause the last children's book I read was when I was a child.
 [^2]: Perhaps I should change that habit.
 [^3]: Not that most of that stuff would work well in a children's book anyway.
+[^4]: It's not fair to judge an author by a single book unless, of course, they've only written that single book. I will likely try to read some of her other stuff.
