@@ -13,6 +13,8 @@ On the other hand, there are innumerable examples of one. There is only one me, 
 
 But what _is_ one? What does it mean?
 
+<!--more-->
+
 At some level, it's a foundational aspect of common sense. You don't _need_ to examine it because it's so clearly obvious. There's very little (read: none) ambiguity when a person says: There's only one apple. 
 
 But what is one? What if we decide to question its existence [^2]? Does such a thing as 'one' even exist?
