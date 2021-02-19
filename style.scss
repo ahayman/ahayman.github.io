@@ -316,6 +316,18 @@ img {
   }
 }
 
+.nav-social-icons {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+
+  a {
+    display:inline;
+    text-align: left;
+  }
+}
+
 .category_rss {
   float: right;
   margin-left: 10pt;
