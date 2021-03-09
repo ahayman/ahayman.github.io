@@ -316,6 +316,22 @@ img {
   }
 }
 
+.nav-social-icons {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  border-bottom: 0.5pt solid var(--color-body);
+  border-top: 0.5pt solid var(--color-body);
+  margin: 5pt 0pt;
+  padding: 5pt 0pt;
+
+  a {
+    display:inline;
+    text-align: left;
+  }
+}
+
 .category_rss {
   float: right;
   margin-left: 10pt;
@@ -379,7 +395,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 0.5em;
-  border-bottom: 1px solid var(--color-select);
+  border-bottom: 1px solid var(--color-subText);
 }
 
 .posts > .post:last-child {
