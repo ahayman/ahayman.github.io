@@ -3,6 +3,7 @@ layout: post
 title: A Deadly Education
 category: reviews
 image: https://m.media-amazon.com/images/I/41hU2U1muhL.jpg
+date: 2021-03-15 11:15:58
 ---
 
 ![A Deadly Education Book Cover](https://m.media-amazon.com/images/I/41hU2U1muhL.jpg)
@@ -13,13 +14,9 @@ _by Naomi Novik_
 
 This was a delightful book, and the problem with delightful books is they're hard to critique. Instead of making mental notes, I find myself enjoying the story. As a reader, this is great; it's exactly what I want out of a book. As a writer looking to learn from other people's writing, this is kind of the worst type of book to read. I'm left with 'wow, that was a good book' and not with lessons I can apply to my own craft.
 
-Yet still I will try.
+First, of course, is why I bought the book in the first place. Naomi Novik isn't an author I've read before, though I've been aware of her for a while now. She's shown up in recommendation engines, but always the premise of her books hasn't been strong enough for me to purchase them. The one I see most frequently, Spinning Silver, is a retelling of Rumplestiltskin. It's highly recommended with lots of good reviews and I just haven't wanted to read a retelling of an old story, so I didn't. A Deadly Education, though, was something new, and this time when I came across the recommendation, I picked it up.
 
 <!--more-->
-
-First, of course, is why I picked it up. Naomi Novik isn't an author I've read before, though I've been aware of her for a while now. She's shown up in recommendation engines, but always the premise of her books hasn't been strong enough for me to purchase them. The one I see most frequently, Spinning Silver, is a retelling of Rumplestiltskin. It's highly recommended with lots of good reviews and I just haven't wanted to read a retelling of an old story, so I didn't. 
-
-A Deadly Education, though, was something new, and this time when I came across the recommendation, I picked it up.
 
 ### What Worked
 
@@ -50,6 +47,14 @@ With well written, relatable characters struggling in an interesting setting, th
 All said, though, if you're looking for a interesting Harry-Potterish-like-but-not-really world with some teenage drama, a well written fitting-in story, and some excellent character development, this book is probably for you. As for me, I'm looking forward to reading the next book in the series when it comes out.
 
 ---
+
+## Info
+
+[Author Website](https://www.naominovik.com)  
+[Amazon Author Page](https://www.amazon.com/Naomi-Novik/e/B001IGNGVK)  
+
+[A Deadly Education (Author)](https://www.naominovik.com/a-deadly-education/)  
+[A Deadly Education (Amazon)](https://www.amazon.com/gp/product/B083RZC8KQ)
 
 
 [^1]: Wrong means too much: he said she said, filling roles with stereotypes, wish fulfilment, idealizing scenarios, etc. It's usually pretty easy to tell when the author has painted over their past with a sheen of nostalgia.
