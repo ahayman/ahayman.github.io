@@ -116,23 +116,25 @@ First, let's talk about what _kind_ of story is being told:
 
 Ah... no.
 
-First off, some clarification: The Hero's/Heroine's Journey has nothing to do with gender. 
+First off, some clarification: The Hero's/Heroine's Journey has nothing to do with a character's sex or gender. 
 
-Ack! Even that's not right. The _name_ certainly does lean into gender stereotypes. Men are prone to go at it alone, women are supposed to be cooperative, ladedadeda, whatever. It's disturbing. Our stereotypes are so deeply ingrained into our culture such that the best way to title our story types is to use them. I can't help but feel like something went wrong there.
+Ack! Even that's not right. The _name_ certainly does lean into stereotypes. Men are prone to go at it alone, women are supposed to be cooperative, ladedadeda, whatever. It's disturbing. Our stereotypes are so deeply ingrained into our culture such that the best way to title our story types is to use them. I can't help but feel like something went wrong there.
 
-The definition has nothing to do with gender. A Hero's Journey could easily be taken by any gender, just as a Heroine's Journey could. In truth, even the structure of the story could remain largely the same between them— hell, even the basic stages of a Hero's Journey can apply [^9]. What's different, though, is _how_ they take that journey, how they overcome their obstacles, and what the resulting tension and victory looks like. The result is a very different book, even if the plot lines are largely the same.
+The definition has nothing to do with gender. A Hero's Journey could easily be taken by any gender, just as a Heroine's Journey could. In truth, even the structure of the story could remain largely the same between them— hell, even the basic stages of a Hero's Journey can apply [^9]. What's different is _how_ they take that journey, how they overcome their obstacles, and what the resulting tension and victory looks like. The result is a very different book, even if the plot lines are largely the same.
 
 Take what I like to call the 'isolation' stage. In this stage, our intrepid hero is stripped of their companions. In the Hero's journey, this would result in the hero turning inward, finding (or developing) their inner strength, coming to some kind of deep realization or self-actualization, and emerging stronger for it. Isolation ends when our hero finds the strength to overcome the external circumstances causing it or changes enough internally to leave it.
 
 The Heroine's Journey inverts this. Instead of becoming stronger, isolation makes our protagonist weaker (or at the very least stays the same). As they progress through this stage, they are met with failure after failure until they are forced to realize that they can't do it alone; they need others to succeed. A good writer will force the protagonist to deal with their inner demons in order to accept this truth. Isolation ends when the protagonist overcomes the inner demons keeping them from accepting help.
 
-The stage is the same but the form of it could not be different. Whereas the Hero's Journey focuses on personal achievement, the Heroine's Journey focuses on personal relationships. This shift in focus changes not only the meaning of the struggles, but of the underlying tension and drama within the story. Within the Hero's Journey, personal loss is often used an impetus for growth, whereas in the Heroine's Journey, loss is just... loss. There's no justifying it with personal growth. It hurts. That's the point.
+The stage is the same but the form of it could not be different. Whereas the Hero's Journey focuses on personal achievement, the Heroine's Journey focuses on personal relationships. This shift in focus changes not only the meaning of the struggles, but of the underlying tension and drama within the story. Within the Hero's Journey, personal loss is often used an impetus for growth, whereas in the Heroine's Journey, loss is just... loss. There's no justifying it with personal growth. It causes damage and it hurts and it didn't need to happen. That's the point.
 
-There are entire books that detail the Heroine's Journey, so I'll refrain from any further commentary on it [^10]. 
+The Wandering Inn is a large epic plot of heroine stories. Yes, there are heroes; yes, there are battles, magic, and intrigue. But the bulk of the drama lies in the relationships and how they evolve. Pirateaba is a master at fleshing out characters, drawing you in, and then setting up plot lines that pit them against each other in a way that sets up war as a tragedy instead of some glorious self-masturbatory monument to violence and the unending quest for power.
 
-The Wandering Inn is a large epic plot of heroine stories. Yes, there are heroes; yes, there are battles, magic, fights, and intrigue. But the bulk of the drama lies in the relationships and how they evolve. Pirateaba is a master at fleshing out characters, drawing you in, and then setting up plot lines that pit them against each other in a way that sets up war as a tragedy instead of some glorious self-masturbatory monument to violence and the unending quest for power.
+This is, for me, an important aspect of The Wandering Inn. War is cast as the prisoner's dilemma. Tension is created in conflict by getting us to invest in both sides first. We the reader are made to understand why it's happening; both sides have believable rationale, but it's based on imperfect information. We know, deep in our hearts, that if we could just get the two sides to sit down and talk, there would be no war. 
 
-Too often fantasy books spend a lot of time detailing the evils of the antagonist simply so the hero can engage in gratuitous violence. War is a plot line instead of being the tragedy it should be. 
+### Them Themes
+
+
 
 [^1]: Which I don't use nearly as much as I'd thought because I always have my phone in hand whereas I must actually remove my ass from my seat to go get my kindle. But hey, still, kindle apps sync, and the website does not. I really wish it would, though.  I've had some thought to manually copy each chapter from each volume of the series into a doc I can convert into an ebook using Calibri or something. It just that it _sounds_ like a lot of work. Still...
 [^2]: He? She? I don't know, and it doesn't really matter in any meaningful sense. However, I've gotten the impression it's something of a mystery, maybe? I didn't spend any time trying to figure it out, but I would be surprised if the writer were male. There are scenes and even whole chapters that deal with subjects that would not occur to most of the male species on our planet, with the possible exception of some of the more conscientious married men.
@@ -143,4 +145,3 @@ Too often fantasy books spend a lot of time detailing the evils of the antagonis
 [^7]: No, no you can't. That's just stupid, as though any group of people can so easily slot into our nicely pre-packaged categories. At best, there's spectrum, but most likely, the truth reflects categories we've never even thought of. Of course, while this is all true, it conflicts with my desire to make a point, and so thus will I ignore the pesky mess of reality and pretend everything is neatly packaged.
 [^8]: Okay, okay. Let's not be sexist. They could _also_ be wearing a metal bikini.
 [^9]: Which isn't really surprising given just how broad and flexible the Hero's Journey is defined. 
-[^10]: Lol. No, no I won't.
