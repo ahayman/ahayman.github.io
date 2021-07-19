@@ -10,7 +10,9 @@ date: 2021-05-17 09:31:10
 
 <!--start-->
 
-This is not a book; it's a web series. It's an important distinction, because if you approach this like you might a book or even a standard book series, you just may find yourself sucked into a world far larger than you anticipated.
+This "book" cost me months.
+
+But, of course, it's not a book; it's a web series. It's an important distinction, because if you approach this like you might a book or even a standard book series, you just may find yourself sucked into a world far larger than you anticipated.
 
 It's problematic because you may not want to leave, and there's a whole-freaking lot to keep you there, and you very likely have an actual life to live. Good luck with that.
 
@@ -18,17 +20,21 @@ I came across the series from the recommendation of several different authors I 
 
 Bleh. Who actually wants to read a book on a website? Seriously. I bought a kindle for a reason [^1] that's not purely due to eye strain. 
 
-It turns out there _are_ kindle books, three of them, that almost encompass three of the... eight volumes? Huh. And these are not small books; I believe one of them clocks in at around eleven hundred pages.
+It turns out there _are_ kindle books, three of them, that almost encompass three of the... eight volumes? Huh. And these are not small books; I believe one of them clocks in at around twelve hundred pages.
 
-Still, I read the ebooks, and discovered I really wanted more. I just had to sacrifice my soul on the alter of inconvenient web text and [groan] manual syncing.
+Still, I read the ebooks, and discovered I wanted more. I just had to sacrifice my soul on the alter of inconvenient web text and manual syncing. 
+
+It was not pleasant.
 
 <!--more-->
 
-I like this series a lot, so let's first get out of the way things I _don't_ like. There's not a whole lot to the list, but there is some, and they mostly revolves around the prose itself. I should point out the prose itself improves greatly as the series progresses, though most of my complaints never change. Also, I read an interview with 'pirateaba' where they [^2] explain how much they dislike editing, which is mostly limited to spell check. More on that later.
+I can't count how many times I lost my place, then spent untold eterneties scrolling first scrolling through innovative chapter names like 5.42 and 5.43, then scrolling through ten to twenty thousand word chapters. At least once I accidentally skipped a chapter, which led to great confusion until I'd figured it out.
 
-Word craft this is not. Pirateaba isn't interested much in grammar, especially punctuation, and they're certainly not creating beautifully crafted paragraphs. I rather suspect that to them, prose is a tool to tell a story and nothing more. They're good at that, very good, and for me it smoothes over most issues. While I do like reading well crafted prose, at the end of the day the reason I'm reading is for the story.
+I like this series a lot, so let's first get out of the way things I _don't_ like. There's not a whole lot to the list, but there is some, and they mostly revolves around the prose itself. I should point out the writing itself improves greatly as the series progresses.
 
-The Wandering Inn is a very good story. It's just that...
+Actually, let me repeat that, dwell on it a bit: the writing _really_ improves throughout the series. Turns out, writing two chapters a day for years will cause one to learn a few things. It's rather delightful to see.
+
+However, that still means you've gotta get through some of the early "janky" writing, and therein comes both the warning and the encouragement. Yes, some of it may be annoying or frustrating (or it is if you're me), but it gets better and the story is well worth that price of admission.
 
 ### Dialog
 
@@ -42,7 +48,7 @@ It doesn't take long for me to look back (or ahead) and figure out from context 
 
 ### Foreshadowing
 
-So, there's foreshadowing and then there's **FORESHADOWING**. What's the difference? With foreshadowing, an event or scene is written in such a way as to to imply or suggest something to come. It could be obtuse, such as a character experiencing some ominous feeling; it could be subtle, such that the way the scene is described suggests something to come.  
+So, there's foreshadowing and then there's **FORESHADOWING**. What's the difference? With foreshadowing, an event or scene is written in such a way as to to imply or suggest something to come. It could be obtuse, such as a character experiencing some ominous feeling; it could be subtle, such that the way the scene is described suggests something to come. 
 
 Or, it could be **FORESHADOWING**, which often comes across like a bag of bricks:
 
@@ -50,19 +56,14 @@ Or, it could be **FORESHADOWING**, which often comes across like a bag of bricks
 
 ^ [^4]
 
-It reeks of distrust (to me, at least), as though the author could not figure out or be bothered enough to actually write in a cliff hanger. They're afraid the reader won't turn the page, so they throw in some line to keep the reader hooked.
-
 _Oh no! What ever will happen to my favorite character!_
 
-Does any reader actually think that when bludgeoned with such obvious **FORE...** (okay, enough of the caps) _foreshadowing_ (better?). Or do they roll their eyes and try to decide if the story is good enough to warrant a page turn in light of such bad writing?
-
-I have yet to see any such line add anything to a story in any book I've ever read. In most cases, it detracts, suggesting the author is insecure and uncertain of their plot. I begin to wonder if they're loosing confidence. I begin to wonder if the story is going to falter. Why else would you need to add something like that? 
-
-To be clear, The Wandering Inn never falters. The story's been more than enough to keep me turning the page [^5] even after five volumes, which is what, like ten books at least?
-
-I personally don't like foreshadowing unless it's incredibly subtle, but so much of my objection to it could be attributed to quicks in my personality. When I'm reading, I want to read about what's happening now. I want to be drawn in to it. What I don't want, is for the author to rip me out and jab their finger into the future with impatient words about how great it's going to be.
+Does anybody actually think that? I despise this sort of thing. It feels as though the author could not be bothered to actually write a cliff hanger. I have yet to see any such line add anything to a story in any book I've ever read. When I'm reading, I want to read about what's happening now. I want to be drawn in to it. What I don't want, is for the author to rip me out and jab their finger into the future with impatient words about how great it's going to be.
 
 Stop trying to draw me into the future. I'll get there in my own time.
+
+To be clear, The Wandering Inn is great. The story's been more than enough to keep me turning the page [^5] even after five volumes, which is what, like fifteen books at least? Also, this issue mostly goes away somewhere around volume six. 
+
 
 ### Periods
 
@@ -85,13 +86,15 @@ There's so many ways to structure language, so many tools available, and the aut
 
 As I said, it doesn't exactly detract, but it's a missed opportunity. It makes me sad, cause sometimes I stop and read a paragraph and realize while it's decent, it's just a few punctuation marks away from being great.
 
+A huge but: this issue _also_ goes away. As you progress through the series, you start to first see more commas. Then semicolons, maybe even a dash. The
+
 ### Save the edits, please
 
-You can roughly divide all authors into two main camps [^7]: those who edit, and those who don't. There are pros and cons to each category: It's easy for the "editors" to become bogged down in the pursuit of perfection and take years between their releases. On the other hand, those who don't edit can often embed their mistakes with each new word they write.
+You can roughly divide all authors into two main camps [^7]: those who edit, and those who don't. There's pros and cons to each: It's easy for the "editors" to become bogged down in the pursuit of perfection and take years between their releases. On the other hand, those who don't edit can often embed their mistakes with each new word they write.
 
-Pirataba is not an editor; they've said this. Not only are they not inclined, but their very schedule doesn't allow for it— two chapters a week are _a lot_ to write. 
+Pirataba is not an editor, and they've said as much. Not only are they not inclined, but their very schedule doesn't allow for it— two chapters a week are _a lot_ to write. 
 
-This is not a complaint, but I feel it should be mentioned: The Wandering Inn is unapologetically what it is, errors and all. While there are three books on the Kindle Store that _have_ gone through an editing process, it's telling how far behind they are to what's on the website. It's also telling that most grammar and structural issues remain in those books.
+This is not a complaint, but I feel it should be mentioned: The Wandering Inn is unapologetically what it is, errors and all. While there are three books on the Kindle Store that _have_ gone through an editing process, it's telling how far behind they are to what's on the website. It's also telling that most grammar and structural issues remain in those books as well.
 
 If you want to enjoy it (and I highly recommend you do), you best get used to the issues. Ignore them, complain, roll your eyes, or whatever, but then move on and keep reading. Cause at the end of the day, what really matters is the story, and pirateaba has a great one to tell.
 
@@ -99,7 +102,11 @@ If you want to enjoy it (and I highly recommend you do), you best get used to th
 
 A great one? That's wrong; it's more like a plethora of great stories. Yes, there's a main one and spoilers, it's Erin, the one you start with. But to pay attention to just the "primary" story is wrong, simply because just about _every_ story told in The Wandering Inn universe is equally good.
 
-<#need more?#>
+I would go even further and claim there's a hidden character plot within (or constituting) all the others: the world itself. This is the benefit of writing the way Pirateaba does. They have space, room to flesh out the world in ways no novel or even series ever could. Each arc doesn't just tell the story of a character, but also reveals more about a culture, nation, kingdom, species, etc in the world. That, of course, doesn't guarantee good writing, and while not all of the stories are equally good, they are all good. More importantly, they're unique so that very rarely do I feel like I'm reading the same story in a different character.
+
+This would be good as it is, but I would be remiss to not point out that's it's not just one world, but ours as well. We never see ours directly, but most stories follow someone from our world trying to survive in a deadly medieval culture filled with magic and monsters. It's equally fun and horrifying, yet always interesting to watch how our culture, ideas, and values not only translate into a reality not designed for them, but also not _prepared_ for them either.
+
+Where else can you find a story of a dragon addicted to an iPhone game?
 
 ### Our Kind of Story
 
@@ -108,7 +115,7 @@ First, let's talk about what _kind_ of story is being told:
  - Massive world building: check.
  - Epic with lot's of story lines: check.
  - Fleshed out characters that feel real and undergo authentic transformations: double-check... maybe even triple check.
- - Deep and consistent magic system: well... it's broad. Not sure how consistent it is (literally, I'm unsure and I'm disinclined to research it), and there are hints of depth or deeper truths kinda thing, but so far it's mostly just broad. Think: a lot of different spells broken up into tiers.
+ - Deep and consistent magic system: well... it's broad. Not sure how consistent it is (literally, I'm unsure and I'm disinclined to research it), and there are hints of depth or deeper truths kinda thing, but so far it's mostly just broad. Think: a lot of different spells broken up into tiers but with only very vague guiding principles.
  - LitRPG: sort of? There are levels and they're really important to the world/people/plot. But the levelling system itself is simplistic (also a bit random) and there is a distinct lack of the character sheets common to the genre. Personally, I consider this a plus; I do not like skimming character sheets. Either way, let's call it very, very lite LitRPG.
  - The classic Herione's Journey: check.
 
@@ -120,7 +127,7 @@ First off, some clarification: The Hero's/Heroine's Journey has nothing to do wi
 
 Ack! Even that's not right. The _name_ certainly does lean into stereotypes. Men are prone to go at it alone, women are supposed to be cooperative, ladedadeda, whatever. It's disturbing. Our stereotypes are so deeply ingrained into our culture such that the best way to title our story types is to use them. I can't help but feel like something went wrong there.
 
-The definition has nothing to do with gender. A Hero's Journey could easily be taken by any gender, just as a Heroine's Journey could. In truth, even the structure of the story could remain largely the same between them— hell, even the basic stages of a Hero's Journey can apply [^9]. What's different is _how_ they take that journey, how they overcome their obstacles, and what the resulting tension and victory looks like. The result is a very different book, even if the plot lines are largely the same.
+The definition, though, has nothing to do with gender. A Hero's Journey could easily be taken by any gender, just as a Heroine's Journey could. In truth, even the structure of the story could remain largely the same between them— hell, even the basic stages of a Hero's Journey can apply [^9]. What's different is _how_ they take that journey, how they overcome their obstacles, and what the resulting tension and victory looks like. The result is a very different book, even if the plot lines are largely the same.
 
 Take what I like to call the 'isolation' stage. In this stage, our intrepid hero is stripped of their companions. In the Hero's journey, this would result in the hero turning inward, finding (or developing) their inner strength, coming to some kind of deep realization or self-actualization, and emerging stronger for it. Isolation ends when our hero finds the strength to overcome the external circumstances causing it or changes enough internally to leave it.
 
