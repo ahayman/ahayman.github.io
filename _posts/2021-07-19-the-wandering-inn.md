@@ -2,11 +2,11 @@
 layout: post
 title: The Wandering Inn
 category: reviews
-image: https://i.imgur.com/ljAoEqH.gif
-date: 2021-05-17 09:31:10
+image: https://m.media-amazon.com/images/I/41zGUBv9XHL.jpg
+date: 2021-07-19 10:11:43
 ---
 
-![The Wandering Inn Cover](https://i.imgur.com/ljAoEqH.gif)
+![The Wandering Inn Cover](https://m.media-amazon.com/images/I/41zGUBv9XHL.jpg)
 
 <!--start-->
 
@@ -86,7 +86,7 @@ There's so many ways to structure language, so many tools available, and the aut
 
 As I said, it doesn't exactly detract, but it's a missed opportunity. It makes me sad, cause sometimes I stop to reread a paragraph and realize while it's decent, it's just a few punctuation marks away from being great.
 
-A huge but: this issue _also_ goes away. As you progress through the series, you start to first see more commas. Then semicolons, maybe even a dash. The
+A huge but: this issue _also_ goes away. The writing progressively gets better as the series progresses. So please, don't throw away perfectly good stories because the writing starts out a little rough.
 
 ### Save the edits, please
 
@@ -161,11 +161,9 @@ Is it worth it? Well, I'm half way through the sixth volume [^10] and I've yet t
 
 Pirateaba is not afraid to take on difficult themes, and with a with a world so big, they have plenty of room to address them. I've been particularly pleased at the way they've taken on subjects such a rape and violence, omitting the gratuitous while showing how dehumanizing such acts can be. 
 
-But it's more than that. It's not uncommon for fan/sci-fi authors to have philosophical and/or idealogical viewpoints. In fact, I would argue this genre in particular is well suited toward expressing such things— it's a part of my attraction to it, if I were to be honest. Yet I've been particularly pleased at the way Pirateaba addresses such issues. They almost certainly have an opinion — as all people inevitably do — but they're not afraid of expressing the complexities of reality and — how can I say this? — of the valid pluralities of individual, yet limited perspectives.
+But it's more than that. It's not uncommon for fan/sci-fi authors to have philosophical and/or idealogical viewpoints. In fact, I would argue this genre in particular is well suited toward expressing such things— it's a part of my attraction to it at least. Yet I've been particularly pleased at the way Pirateaba addresses such issues. They almost certainly have an opinion — as all people inevitably do — but they're not afraid of expressing the complexities of reality and — how can I say this? — of the valid pluralities of individual, yet limited perspectives.
 
-Thank you, Pirateaba, for doing in ten thousand words what so many authors could never do in their attempts at a fraction of yours. 
-
-I'm so tired of simplistic philosophy reduced to absurd ideology that cannot help but destroy humanity in its simplicity. Because, in the end, humanity — _people_ and _individuals_ — are not so easily reduced. We're complex beings imbued with limited perspective. This is not a thing that can be changed. No matter how good, how _right_ our hero is, she is, at their core, fallible, if only due to their limited understanding of reality.
+I'm so tired of simplistic philosophy reduced to absurd ideology. Because, in the end, humanity — _people_ and _individuals_ — are not so easily reduced. We're complex beings imbued with limited perspective. This is not a thing that can be changed. No matter how good, how _right_ our hero is, at their core, fallible, if only due to their limited understanding of reality.
 
 It's this kind of thoughtful address of the human condition that I find a huge draw to The Wandering Inn. Take for instance Flo, the King of Destruction. He's viewed by others as a tyrant bent on world domination. Yet Pirateaba spends a lot of time exploring why a tyrant might justify this in such a way that, somehow, you begin to understand and relate. He's a good person trying to rectify gross injustice, and perhaps it is not the he who was wrong in his conquests, but the world who is wrong in its label.
 
@@ -179,15 +177,17 @@ Perhaps the biggest theme interwoven throughout the series is the idea of what m
 
 But they shift the definition right out from under you.
 
-Monster are monsters: they're a kind of mindless evil, a danger that threatens civilization. When confronted with a monster, you either attack or run, for it will always try to kill you. 
+Monster are monsters: they're a kind of mindless evil, a danger that threatens civilization. When confronted with a monster, you either attack or run, for it will always try to kill you. What you don't do is invite it in for dinner and try to talk to it. 
 
-And monsters are a word we use to excuse our violence. One doesn't need to consider the morality of attacking a monster: by definition, they deserve it. It's obvious when something is a monster, yet over the course of the book we see this label applied over and over to anything alien to us, different from the civilization we've created. And what happens when an entire race is called "monster"?
+Which is exactly what one of the protagonists does.
+
+Monsters are a word we use to excuse our violence. One doesn't need to consider the morality of attacking a monster: by definition, they deserve it because of what they are. It's obvious when something is a monster, yet over the course of the book we see this label applied over and over to anything alien to us, different from the civilization we've created. And what happens when an entire race is called "monster"?
 
 What happens when we create our monsters by the simple virtue of naming them?
 
 What happens when we become a monster simply because we believe it?
 
-This power of naming and our abuses of it are, in my opinion, a central theme to The Wandering Inn. As our protagonists either descend into or reject the stereotypes of the realm, we the reader get to see the power of our labels: monster, person, individual, alien. They can blind or reveal, trap or set free. Throughout the series, we see people do just that, not only of others but of of themselves. It's a strong theme, and a poignant one, and it is explored well.
+This power of naming and our abuses of it are, in my opinion, a central theme to The Wandering Inn. As our protagonists either descend into or reject the stereotypes of the realm, we the reader get to see the power of our labels: monster, person, individual, other, _them_. They can blind or reveal, trap or set free. Throughout the series, we see people do just that, not only of others but of of themselves. It's a strong theme, and a poignant one, and it is explored well.
 
 In the end, this one question endlessly repeats itself beneath all their writing: what if all the time we've been creating our own monsters, simply by labelling them as such?
 
@@ -199,7 +199,7 @@ I've spent the last couple months reading The Wandering Inn. Honestly, I haven't
 
 I started writing with an ambiguous desire to subvert the tropes I'd grown tired of reading. To call my motivation ill-defined is to understate it; it was more a simmering discontent than any true goal. I was annoyed so I started writing with the intent to explore my own irritation.
 
-To an extent, I've been writing the antithesis to the Hero's Journey. Mine is story where the Hero's Journey _doesn't_ work, where it goes wrong, and how it can create the evil we seek to destroy. But it's always been missing something. The book is tragedy, but I've never wanted my series to end as tragedy. I've wanted an alternative, an answer to the question I pose: if not the Hero, then who?
+I've largely been writing the antithesis to the Hero's Journey. Mine is story where the Hero's Journey _doesn't_ work, where it goes wrong, and how it can create the evil we seek to destroy. But I've always felt it was missing something. The book is tragedy, but I've never wanted my series to end as tragedy. I've wanted an alternative, an answer to the question I pose: if not the Hero, then who?
 
 In The Wandering Inn I've found something of an answer: the Heroine's Journey. I resonate with this idea of cooperation over rugged individualism, and of the cost we accrue in trying to do it ourselves. In my book the hero has immense power, but he'll learn that it cannot solve the problems he wants to solve. He'll learn that in trying to become the Hero, he will have made himself a monster. But that can't be the end [^11], and I've learned it no longer does it need to be.
 
@@ -207,9 +207,9 @@ I've also been quite impressed by the way Pirateaba has been able to create beli
 
 ### Conclusion
 
-It's a great series, well written, and extremely long. The prose is a little janky but the stories more than make up for it. The biggest downside is also it's greatest strength: it's just very long. Much like its title, it wanders, and for that you can loose yourself, knowing that you'll always have something more to come back to. Or you'll become sick of the endless segues and move on to something more... curated. That's okay; The Wandering Inn isn't for everyone.
+It's a great series, well written, and extremely long— at latest count, over eight million words. The prose is a little janky but the stories more than make up for it and the prose improves greatly over time. The biggest downside is also it's greatest strength: it's just very long. Much like its title, it wanders, and for that you can loose yourself, knowing that you'll always have something more to come back to. Or you'll become sick of the endless segues and move on to something more... curated. That's okay; The Wandering Inn isn't for everyone.
 
-If you're looking for a good "book", a story you can read and be done with, this series is not for you. Instead, The Wandering Inn is a place you can stop in to visit whenever you want, read what you want, and move on if you need. You can always come back, knowing there's always another story to be told, and assured that it will be good.
+If you're looking for a good "book", a story you can read and be done with, this series is not for you. Instead, The Wandering Inn is a place you can stop in to visit whenever you want, read what you want, and move on if you need. You can always come back, knowing there's always another story to be told.
 
 ---
 
@@ -219,11 +219,11 @@ If you're looking for a good "book", a story you can read and be done with, this
 [Amazon Kindle Series](https://www.amazon.com/dp/B07YH9X7V7)  
 [Patreon Page](https://www.patreon.com/user?u=4240617)  
 
-_I don't usually do this, but since The Wandering Inn is free to read (on their website), I would ask you to consider supporting Pirateaba on Patreon if you enjoy their series. You can support them by buying their e-books (and I did) but their main income comes from supporters._
+_I don't usually do this, but since The Wandering Inn is free to read (on their website), I would ask you to consider supporting Pirateaba on Patreon if you enjoy their series. You can support them by buying their ebooks but if you continue beyond that, I would urge you to support them on Patreon._
 
 
 [^1]: Which I don't use nearly as much as I'd thought because I always have my phone in hand whereas I must actually remove my ass from my seat to go get my kindle. But hey, still, kindle apps sync, and the website does not. I really wish it would, though.  I've had some thought to manually copy each chapter from each volume of the series into a doc I can convert into an ebook using Calibri or something. It just that it _sounds_ like a lot of work. Still...
-[^2]: He? She? I don't know, and it doesn't really matter in any meaningful sense. However, I've gotten the impression it's something of a mystery, maybe? I didn't spend any time trying to figure it out, but I would be surprised if the writer were male. There are scenes and even whole chapters that deal with subjects that would not occur to most of the male species on our planet, with the possible exception of some of the more conscientious married men.
+[^2]: He? She? I don't know, and it doesn't really matter in any meaningful sense. I've gotten the impression they prefer "they", and so that's what I use.
 [^3]: FYI, A 'beat' is a short scene set alongside the dialog. It almost always (and probably should always) feature the person speaking. As such, it's a way to avoid the "he/she said" tags by replacing them with (usually) more visual action.
 [^4]: I made this up; it's not a line from the book. It _could_ be, though. Really. Some of the foreshadowing is almost that bad.
 [^5]: Or click into the next chapter? [Sigh] I really hate not having this on the kindle.
@@ -232,4 +232,4 @@ _I don't usually do this, but since The Wandering Inn is free to read (on their 
 [^8]: Okay, okay. Let's not be sexist. They could _also_ be wearing a metal bikini.
 [^9]: Which isn't really surprising given just how broad and flexible the Hero's Journey is defined. 
 [^10]: Yes, sixth. This review is taking _forever_ to write.
-[^11]: Or I suppose it can. I just don't want it to be. 
+[^11]: Or I suppose it can— lot's of books do it —I just don't want to. 
